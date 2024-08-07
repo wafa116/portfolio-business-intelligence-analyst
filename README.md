@@ -1,6 +1,18 @@
 # Business Intelligence Analyst
 ### Project 1: Start your training Business Intelligence Analyst
 ### Project 2: Visualize data with Excel
+##### From November 15, 2024, to December 10, 2024 
+Visualize the data of "Primero Bank" customers using Excel and identify the characteristics of customers who have left the bank in order to prepare an action plan to prevent future departures.
+
+Tasks performed:
+
+* Visualize customer data in Excel;
+* Identify common characteristics of customers who have left;
+* Determine the possible reasons why they left;
+* Identify profiles among current customers who might leave.
+
+<u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint.
+
 ### Project 3: Query a database with SQL
 ### Project 4: Collect data in compliance with GDPR standards
 ### Project 5: Query a database with SQL to track customer satisfaction
