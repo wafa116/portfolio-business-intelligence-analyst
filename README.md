@@ -22,8 +22,18 @@ Visualize the data of "Primero Bank" customers using Excel and identify the char
 ### Project 8: Analyze the evolution of real estate prices using Python
 
 ### Project 9: Create your Business Intelligence Analyst portfolio
-##### From June 1, 2024, to August 31, 2024 
-I realized a portfolio using Figma, Tableau software on all my projects realized during my course of BI with OpenClassrooms.<br/>
-This is my dashboard on tableau software: [my resume](https://public.tableau.com/app/profile/wafa.zargouni/viz/wafa-resume2/Montableaudubord).
+
+##### June 1, 2024 - Agust 21, 2024 
+##### Description:
+Create a dashboard in Tableau Software to showcase my skills and all my projects realized during my course of BI with OpenClassrooms.
+
+This is my dashboard on tableau software: [My Resume](https://public.tableau.com/app/profile/wafa.zargouni/viz/wafa-resume2/Montableaudubord).
+
+##### Tasks performed:
+
+* Prepare a mock-up of the dashboard in Figma format;
+* Define the data used in the dashboard in Excel format;
+* Create a dashboard of skills and completed projects in Tableau Software format and publish it online;
+* Integrate the dashboard into an online portfolio in English via GitHub.
 
 <u><strong>Tools:</strong></u> Tableau Software, Figma, Excel, Git, Github Visual Studio Code.
