@@ -27,7 +27,7 @@ Visualize the data of "Primero Bank" customers using Excel and identify the char
 ##### Description:
 Create a dashboard in Tableau Software to showcase my skills and all my projects realized during my course of BI with OpenClassrooms.
 
-This is my dashboard on tableau software: [My Resume](https://public.tableau.com/app/profile/wafa.zargouni/viz/wafa-resume2/Montableaudubord).
+This is my dashboard on tableau software: [My Resume](https://public.tableau.com/views/MYRESUME_17231145674200/Montableaudubord?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ##### Tasks performed:
 
