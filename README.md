@@ -83,10 +83,25 @@ Sanitoral is an international company that manufactures and sells oral care prod
 * monitor project progress;
 * identify any delays;
 * control performance so that the team can take appropriate actions.
-<u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, JPower BI.
+<u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, Power BI.
 
 
 ### Project 8: Analyze the evolution of real estate prices using Python
+
+##### Description:
+
+"Les plus Beaux Logis de Paris" is a prestigious client in the real estate industry.
+
+##### Tasks performed:
+
+* analyze the evolution of real estate prices in Paris;
+* train the linear regression algorithm on the data using the iPython Notebook format.
+* predict the future valuation of the company's portfolio using the iPython Notebook format, and conclude the comparison between the "individual" and "corporate" segments.
+* perform an unsupervised classification of the real estate assets in the company's portfolio and verify the results against the team's rankings.
+
+
+
+<u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, iPython Notebook.
 
 ### Project 9: Create your Business Intelligence Analyst portfolio
 
