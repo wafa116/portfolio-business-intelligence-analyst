@@ -28,6 +28,26 @@ The goal of the project is to review the insurance contract prices of the compan
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, SQL.
 
 ### Project 4: Collect data in compliance with GDPR standards
+
+
+##### Description:
+Dev’Immediat's business involves commercial prospecting and generating profit from the sale of contracts.
+
+
+##### Tasks performed:
+
+* Issue recommendations on the management rules to be implemented immediately on CRM data to comply with RGPD,
+* Perform a data extraction from the CRM in CSV format, ensuring that it is fully anonymized.
+* Document all data modification steps in a report demonstrating adherence to quality processes in data collection, preparation, and the drafting of recommendations.
+
+
+<u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, SQLite.
+
+
+
+
+
+
 ### Project 5: Query a database with SQL to track customer satisfaction
 ### Project 6:  Optimize stock management for a store by cleaning its data
 ### Project 7: Create a dynamic dashboard with Power BI to visualize project progress
