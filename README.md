@@ -32,8 +32,6 @@ The goal of the project is to review the insurance contract prices of the compan
 
 ##### Description:
 Dev’Immediat's business involves commercial prospecting and generating profit from the sale of contracts.
-
-
 ##### Tasks performed:
 
 * Issue recommendations on the management rules to be implemented immediately on CRM data to comply with RGPD,
