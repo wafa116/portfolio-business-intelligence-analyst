@@ -53,12 +53,23 @@ BestMarket, a retail company, wants to use customer feedback and reviews data to
 
 * Rephrase the expression of needs
 * Collected and grouped data in a database to facilitate analysis.
-* create the list of queries with the associated results."
+* create the list of queries with the associated results.
 
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, SQLite.
 
 
 ### Project 6:  Optimize stock management for a store by cleaning its data
+
+##### Description:
+
+
+
+##### Tasks performed:
+
+* 
+
+<u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, SQLite.
+
 ### Project 7: Create a dynamic dashboard with Power BI to visualize project progress
 ### Project 8: Analyze the evolution of real estate prices using Python
 
