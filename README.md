@@ -73,6 +73,19 @@ BottleNeck, a very prestigious wine merchant that operates online.
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, Jupyter.
 
 ### Project 7: Create a dynamic dashboard with Power BI to visualize project progress
+
+##### Description:
+
+Sanitoral is an international company that manufactures and sells oral care products.
+
+##### Tasks performed:
+
+* monitor project progress;
+* identify any delays;
+* control performance so that the team can take appropriate actions.
+<u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, JPower BI.
+
+
 ### Project 8: Analyze the evolution of real estate prices using Python
 
 ### Project 9: Create your Business Intelligence Analyst portfolio
