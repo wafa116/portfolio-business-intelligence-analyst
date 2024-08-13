@@ -15,6 +15,18 @@ Visualize the data of "Primero Bank" customers using Excel and identify the char
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint.
 
 ### Project 3: Query a database with SQL
+
+##### Description:
+The goal of the project is to review the insurance contract prices of the company Dat’Assur Habitation to stand out from the competition. They want customers to pay based on their profile, location, whether they are owners or tenants, and whether they have a house or an apartment...
+
+
+##### Tasks performed:
+
+* The execution of SQL queries to extract the data you need.
+* Writing the presentation with a description of the methodology and the steps followed.
+
+<u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, SQL.
+
 ### Project 4: Collect data in compliance with GDPR standards
 ### Project 5: Query a database with SQL to track customer satisfaction
 ### Project 6:  Optimize stock management for a store by cleaning its data
