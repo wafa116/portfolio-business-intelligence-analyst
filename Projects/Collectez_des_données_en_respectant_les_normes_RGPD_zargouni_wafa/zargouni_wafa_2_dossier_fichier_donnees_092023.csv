@@ -1,0 +1,1159 @@
+Index;date_demande;formule;points_perdus;tranches_age;classes_revenu;a_enfants;type_conduite;type_vehicule;usage_vehicule
+0;2022-02-25 16:13:38;dev_integral;0;jeune;+100K;Oui;Highly Urban/ Urban;Sports Car;Commercial
+1;2022-05-24 21:07:34;dev_express;2;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+2;2022-01-24 08:17:21;dev_express;0;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;Pickup;Private
+3;2022-04-20 03:46:00;dev_integral;3;jeune;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+4;2022-03-23 01:32:40;dev_vip;2;agé;"[0;25K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+5;2022-03-23 22:20:50;dev_premium;2;jeune;"[+75K;100K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+6;2022-03-13 01:10:59;dev_express;0;agé;+100K;Oui;z_Highly Rural/ Rural;Minivan;Commercial
+7;2022-03-09 03:43:53;dev_premium;1;agé;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+8;2022-01-29 10:17:49;dev_premium;0;agé;+100K;Non;Highly Urban/ Urban;Minivan;Private
+9;2022-03-26 07:37:33;dev_integral;1;adulte;"[0;25K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+10;2022-05-26 05:51:37;dev_express;0;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+11;2022-01-27 09:33:29;dev_premium;0;jeune;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+12;2022-05-08 13:32:05;dev_express;0;agé;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+13;2022-05-02 08:44:46;dev_integral;5;jeune;"[0;25K]";Non;z_Highly Rural/ Rural;Van;Commercial
+14;2022-04-15 13:09:59;dev_integral;0;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Private
+15;2022-05-11 02:24:06;dev_express;0;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+16;2022-04-12 01:20:55;dev_integral;0;adulte;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+17;2022-03-04 09:15:11;dev_express;1;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Van;Commercial
+18;2022-02-05 17:39:22;dev_express;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+19;2022-04-25 14:43:44;dev_integral;0;agé;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+20;2022-03-20 03:44:21;dev_express;0;adulte;"[+50K;75K]";Oui;z_Highly Rural/ Rural;Minivan;Private
+21;2022-03-27 09:22:22;dev_premium;1;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Private
+22;2022-05-16 02:39:00;dev_premium;0;jeune;"[0;25K]";Non;Highly Urban/ Urban;Van;Commercial
+23;2022-02-06 07:52:56;dev_premium;5;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Sports Car;Commercial
+24;2022-04-27 15:06:48;dev_express;1;jeune;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+25;2022-04-13 00:52:49;dev_express;1;agé;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Private
+26;2022-03-22 13:32:35;dev_integral;0;jeune;"[+25K;50K]";Non;z_Highly Rural/ Rural;Sports Car;Private
+27;2022-04-22 03:39:47;dev_integral;5;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+28;2022-03-23 22:44:16;dev_vip;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+29;2022-02-12 20:23:14;dev_premium;0;jeune;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+30;2022-01-14 07:11:19;dev_express;0;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+31;2022-04-09 11:49:01;dev_integral;6;adulte;"[+25K;50K]";Oui;z_Highly Rural/ Rural;Minivan;Commercial
+32;2022-03-23 06:12:09;dev_express;3;agé;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+33;2022-02-04 17:14:57;dev_premium;2;jeune;"[+25K;50K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+34;2022-02-05 18:50:01;dev_express;0;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Sports Car;Private
+35;2022-02-08 09:59:30;dev_integral;0;agé;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+36;2022-02-06 22:30:39;dev_express;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+37;2022-02-09 14:28:28;dev_integral;2;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;z_SUV;Private
+38;2022-05-26 21:39:06;dev_integral;0;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+39;2022-03-04 15:36:05;dev_premium;1;adulte;"[+50K;75K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+40;2022-05-31 13:11:08;dev_express;0;jeune;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+41;2022-04-30 23:20:28;dev_express;5;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+42;2022-03-20 04:00:15;dev_express;0;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+43;2022-04-02 11:25:10;dev_premium;0;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Pickup;Private
+44;2022-01-02 20:05:48;dev_integral;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+45;2022-02-24 21:52:11;dev_express;4;agé;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+46;2022-04-05 02:47:59;dev_express;1;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+47;2022-02-21 11:50:32;dev_integral;1;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+48;2022-03-21 00:37:40;dev_integral;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Van;Commercial
+49;2022-04-03 12:30:15;dev_integral;1;adulte;"[+50K;75K]";Oui;z_Highly Rural/ Rural;Van;Private
+50;2022-03-28 23:57:50;dev_integral;7;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Commercial
+51;2022-03-21 07:59:29;dev_express;1;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Private
+52;2022-05-23 09:33:05;dev_express;0;jeune;+100K;Non;Highly Urban/ Urban;Minivan;Private
+53;2022-05-03 20:20:41;dev_express;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Private
+54;2022-04-11 14:51:15;dev_express;5;jeune;"[+75K;100K]";Non;z_Highly Rural/ Rural;Minivan;Commercial
+55;2022-01-05 09:29:53;dev_premium;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Van;Private
+56;2022-05-14 13:46:00;dev_integral;4;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Van;Commercial
+57;2022-04-20 10:04:08;dev_express;2;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+58;2022-01-22 11:01:49;dev_express;0;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Van;Private
+59;2022-04-26 16:17:11;dev_express;1;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Sports Car;Private
+60;2022-03-23 15:45:03;dev_integral;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+61;2022-04-27 03:37:13;dev_express;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Private
+62;2022-05-24 02:44:42;dev_integral;0;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;Van;Commercial
+63;2022-05-09 23:43:14;dev_express;0;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Sports Car;Private
+64;2022-04-22 08:38:06;dev_integral;0;jeune;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+65;2022-05-17 07:36:25;dev_express;5;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+66;2022-05-01 22:37:09;dev_express;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Private
+67;2022-05-29 10:50:34;dev_express;3;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Private
+68;2022-04-04 09:48:20;dev_express;2;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+69;2022-01-27 21:31:36;dev_integral;1;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Commercial
+70;2022-01-13 03:29:34;dev_integral;0;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+71;2022-01-08 11:18:24;dev_express;2;adulte;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+72;2022-04-05 09:02:25;dev_integral;2;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+73;2022-02-14 02:00:18;dev_premium;2;agé;"[+75K;100K]";Oui;z_Highly Rural/ Rural;Minivan;Private
+74;2022-01-14 13:12:49;dev_express;0;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Private
+75;2022-04-20 02:38:57;dev_integral;1;jeune;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+76;2022-05-10 13:40:32;dev_express;5;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Commercial
+77;2022-01-24 17:35:29;dev_premium;4;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+78;2022-02-01 04:48:31;dev_express;4;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+79;2022-04-20 07:29:52;dev_premium;1;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+80;2022-01-02 10:07:51;dev_express;0;agé;"[0;25K]";Non;z_Highly Rural/ Rural;Sports Car;Private
+81;2022-02-18 08:51:16;dev_express;0;agé;+100K;Non;z_Highly Rural/ Rural;Van;Commercial
+82;2022-04-27 19:14:40;dev_express;0;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+83;2022-05-09 03:37:15;dev_express;1;agé;"[0;25K]";Non;z_Highly Rural/ Rural;Sports Car;Private
+84;2022-01-14 21:13:17;dev_express;2;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Commercial
+85;2022-03-30 13:20:35;dev_express;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+86;2022-01-25 00:58:49;dev_premium;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+87;2022-05-28 07:13:31;dev_express;0;jeune;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+88;2022-02-12 08:10:42;dev_premium;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+89;2022-01-11 16:57:31;dev_integral;0;adulte;"[+25K;50K]";Oui;z_Highly Rural/ Rural;Sports Car;Private
+90;2022-04-15 05:20:26;dev_express;3;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Commercial
+91;2022-03-28 10:41:36;dev_premium;1;jeune;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+92;2022-02-26 21:26:35;dev_premium;6;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Sports Car;Private
+93;2022-01-17 08:39:03;dev_express;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Van;Private
+94;2022-04-16 00:13:11;dev_integral;4;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Private
+95;2022-01-12 03:39:07;dev_integral;1;adulte;"[+25K;50K]";Non;z_Highly Rural/ Rural;Pickup;Commercial
+96;2022-03-23 01:48:58;dev_express;7;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+97;2022-04-17 15:27:11;dev_integral;0;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+98;2022-05-05 04:13:46;dev_integral;1;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Van;Private
+99;2022-02-28 07:30:01;dev_integral;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+100;2022-02-12 17:39:26;dev_integral;2;agé;"[0;25K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+101;2022-01-07 19:37:36;dev_integral;0;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+102;2022-01-07 13:02:23;dev_integral;6;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+103;2022-01-12 00:08:50;dev_express;4;jeune;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+104;2022-05-24 14:39:09;dev_premium;1;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+105;2022-03-25 12:49:02;dev_integral;0;jeune;"[0;25K]";Oui;Highly Urban/ Urban;Panel Truck;Commercial
+106;2022-01-02 00:52:24;dev_integral;0;agé;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+107;2022-03-01 04:35:43;dev_integral;1;adulte;"[+50K;75K]";Oui;z_Highly Rural/ Rural;Minivan;Commercial
+108;2022-01-28 11:20:20;dev_express;5;adulte;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+109;2022-04-29 08:01:10;dev_premium;0;agé;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+110;2022-01-20 00:10:54;dev_integral;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+111;2022-05-06 14:07:50;dev_express;0;adulte;+100K;Oui;Highly Urban/ Urban;Minivan;Commercial
+112;2022-03-14 17:19:58;dev_express;0;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+113;2022-03-20 10:44:08;dev_express;2;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+114;2022-01-18 01:43:26;dev_premium;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+115;2022-01-23 11:52:51;dev_premium;0;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;Minivan;Private
+116;2022-01-07 23:42:14;dev_express;0;agé;"[+25K;50K]";Oui;z_Highly Rural/ Rural;Sports Car;Private
+117;2022-01-02 23:14:48;dev_integral;0;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Pickup;Private
+118;2022-05-23 03:25:45;dev_integral;2;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;Sports Car;Commercial
+119;2022-05-29 09:22:38;dev_integral;0;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+120;2022-02-09 09:54:45;dev_integral;0;agé;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+121;2022-02-17 21:50:53;dev_express;2;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;Minivan;Private
+122;2022-05-06 08:05:25;dev_integral;0;agé;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+123;2022-01-25 10:57:34;dev_integral;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Private
+124;2022-01-01 10:42:24;dev_integral;4;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Van;Private
+125;2022-04-02 23:05:22;dev_integral;0;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+126;2022-04-14 03:03:58;dev_integral;2;agé;+100K;Non;Highly Urban/ Urban;Minivan;Private
+127;2022-03-07 01:04:39;dev_express;7;jeune;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Commercial
+128;2022-04-04 21:37:30;dev_premium;1;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+129;2022-04-20 04:58:44;dev_express;1;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+130;2022-02-25 11:43:53;dev_express;0;agé;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+131;2022-05-28 00:32:29;dev_vip;8;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Private
+132;2022-03-18 05:26:00;dev_express;0;jeune;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+133;2022-02-25 19:06:15;dev_express;3;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+134;2022-04-08 14:50:30;dev_integral;0;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+135;2022-05-01 13:47:03;dev_integral;0;agé;"[+75K;100K]";Oui;Highly Urban/ Urban;Minivan;Private
+136;2022-03-27 09:47:05;dev_integral;2;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Van;Commercial
+137;2022-05-11 02:14:17;dev_express;4;adulte;+100K;Oui;Highly Urban/ Urban;Van;Commercial
+138;2022-05-31 03:31:23;dev_express;4;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+139;2022-04-24 23:44:48;dev_premium;6;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+140;2022-03-06 04:31:21;dev_integral;2;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+141;2022-02-18 17:27:16;dev_integral;0;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+142;2022-01-05 05:06:12;dev_integral;0;jeune;+100K;Oui;Highly Urban/ Urban;Pickup;Private
+143;2022-02-19 05:07:40;dev_premium;5;agé;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+144;2022-05-21 17:06:44;dev_express;7;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+145;2022-05-13 05:41:36;dev_express;2;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+146;2022-02-20 18:23:57;dev_integral;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+147;2022-04-16 08:28:15;dev_integral;1;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+148;2022-03-03 11:37:05;dev_integral;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+149;2022-02-26 20:58:16;dev_express;0;agé;"[+75K;100K]";Non;z_Highly Rural/ Rural;Minivan;Private
+150;2022-02-19 07:35:30;dev_integral;0;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+151;2022-03-05 12:14:43;dev_express;2;agé;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+152;2022-01-11 23:53:26;dev_express;3;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+153;2022-03-25 21:08:25;dev_express;1;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+154;2022-02-22 18:20:24;dev_integral;0;agé;"[+25K;50K]";Oui;z_Highly Rural/ Rural;Pickup;Commercial
+155;2022-01-14 04:38:54;dev_integral;0;agé;+100K;Oui;Highly Urban/ Urban;Van;Commercial
+156;2022-04-08 21:31:19;dev_express;5;agé;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+157;2022-04-17 13:11:36;dev_integral;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Private
+158;2022-05-14 20:36:25;dev_integral;0;agé;+100K;Non;z_Highly Rural/ Rural;Minivan;Commercial
+159;2022-02-02 00:42:41;dev_integral;6;agé;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+160;2022-05-21 22:35:53;dev_integral;0;agé;"[+75K;100K]";Oui;Highly Urban/ Urban;Sports Car;Private
+161;2022-03-09 16:06:41;dev_premium;2;jeune;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+162;2022-02-27 09:10:31;dev_integral;1;adulte;+100K;Oui;z_Highly Rural/ Rural;Minivan;Private
+163;2022-04-03 03:15:39;dev_integral;0;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Private
+164;2022-04-02 11:55:09;dev_express;1;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;Sports Car;Private
+165;2022-04-08 07:47:22;dev_express;1;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+166;2022-05-31 15:46:19;dev_integral;0;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;Sports Car;Private
+167;2022-05-16 17:40:14;dev_integral;0;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+168;2022-04-22 13:14:59;dev_integral;1;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+169;2022-05-30 08:43:49;dev_integral;2;agé;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+170;2022-02-01 00:03:49;dev_express;1;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;Pickup;Private
+171;2022-05-31 16:23:24;dev_integral;2;jeune;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Commercial
+172;2022-02-16 07:07:53;dev_integral;0;adulte;"[+75K;100K]";Non;z_Highly Rural/ Rural;Minivan;Commercial
+173;2022-05-21 22:01:47;dev_integral;0;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+174;2022-04-26 15:07:49;dev_express;2;adulte;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+175;2022-01-14 19:18:02;dev_integral;6;agé;+100K;Non;Highly Urban/ Urban;Pickup;Commercial
+176;2022-02-16 23:39:17;dev_express;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;Van;Commercial
+177;2022-01-01 22:26:24;dev_express;0;jeune;"[0;25K]";Non;Highly Urban/ Urban;Sports Car;Private
+178;2022-01-14 11:21:21;dev_integral;0;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+179;2022-05-10 08:25:21;dev_premium;0;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Van;Commercial
+180;2022-05-02 22:21:52;dev_express;1;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Commercial
+181;2022-02-10 04:16:56;dev_express;1;jeune;"[+25K;50K]";Oui;z_Highly Rural/ Rural;Van;Commercial
+182;2022-01-08 11:44:49;dev_integral;0;adulte;+100K;Non;z_Highly Rural/ Rural;Panel Truck;Commercial
+183;2022-01-12 23:08:43;dev_premium;0;agé;+100K;Non;Highly Urban/ Urban;Van;Private
+184;2022-05-27 23:47:01;dev_express;1;agé;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Private
+185;2022-04-10 22:38:24;dev_premium;6;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+186;2022-03-23 18:01:21;dev_integral;0;agé;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+187;2022-05-24 20:26:04;dev_integral;0;jeune;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+188;2022-01-05 12:35:20;dev_premium;0;agé;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+189;2022-05-17 21:03:46;dev_vip;0;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+190;2022-05-30 12:05:26;dev_express;5;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Van;Commercial
+191;2022-01-25 11:38:44;dev_premium;3;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Private
+192;2022-01-30 11:59:40;dev_integral;0;agé;+100K;Non;z_Highly Rural/ Rural;Sports Car;Private
+193;2022-01-04 16:07:33;dev_premium;1;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+194;2022-02-11 19:58:24;dev_integral;0;adulte;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+195;2022-04-07 02:19:19;dev_premium;3;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;Sports Car;Private
+196;2022-02-09 23:54:33;dev_express;4;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+197;2022-04-27 04:09:11;dev_express;2;agé;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+198;2022-05-25 06:02:32;dev_integral;0;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+199;2022-02-10 21:22:48;dev_express;0;agé;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Commercial
+200;2022-03-14 03:24:07;dev_express;9;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Private
+201;2022-05-11 10:53:02;dev_integral;4;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Commercial
+202;2022-04-09 06:44:09;dev_premium;0;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+203;2022-04-14 10:57:46;dev_premium;2;agé;"[+50K;75K]";Non;z_Highly Rural/ Rural;z_SUV;Commercial
+204;2022-04-18 10:41:40;dev_express;3;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Sports Car;Private
+205;2022-03-23 00:19:13;dev_express;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Commercial
+206;2022-05-09 19:49:17;dev_integral;6;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Commercial
+207;2022-02-04 03:00:54;dev_express;0;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Private
+208;2022-04-19 01:02:50;dev_premium;1;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Panel Truck;Commercial
+209;2022-04-03 22:13:58;dev_integral;0;adulte;"[+25K;50K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+210;2022-01-18 05:21:31;dev_integral;1;jeune;"[+50K;75K]";Oui;z_Highly Rural/ Rural;Minivan;Private
+211;2022-03-23 16:17:22;dev_express;1;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+212;2022-05-02 16:43:37;dev_integral;1;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+213;2022-01-19 00:38:48;dev_express;1;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Van;Commercial
+214;2022-02-15 23:41:41;dev_integral;5;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Van;Commercial
+215;2022-01-03 06:55:38;dev_premium;0;agé;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+216;2022-03-27 02:40:21;dev_express;2;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Pickup;Private
+217;2022-04-02 14:20:38;dev_premium;8;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+218;2022-04-30 22:44:59;dev_premium;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;Sports Car;Private
+219;2022-04-07 11:09:26;dev_integral;1;agé;"[+25K;50K]";Oui;z_Highly Rural/ Rural;Minivan;Private
+220;2022-01-22 06:45:54;dev_integral;0;agé;+100K;Oui;Highly Urban/ Urban;Sports Car;Private
+221;2022-05-07 03:05:47;dev_integral;0;agé;"[0;25K]";Oui;z_Highly Rural/ Rural;Pickup;Commercial
+222;2022-01-07 07:53:02;dev_premium;4;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+223;2022-01-05 18:21:07;dev_integral;5;jeune;+100K;Oui;Highly Urban/ Urban;z_SUV;Commercial
+224;2022-05-13 15:01:42;dev_integral;0;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Commercial
+225;2022-05-11 05:29:36;dev_express;4;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+226;2022-03-29 05:23:58;dev_integral;3;agé;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+227;2022-02-12 09:30:57;dev_premium;0;jeune;"[+25K;50K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+228;2022-03-18 03:20:11;dev_premium;0;agé;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+229;2022-01-25 12:09:45;dev_express;5;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Private
+230;2022-05-11 03:18:18;dev_express;3;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+231;2022-05-04 06:00:27;dev_express;0;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+232;2022-01-22 22:28:01;dev_express;3;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+233;2022-01-06 14:38:33;dev_express;2;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+234;2022-04-11 02:23:36;dev_integral;2;agé;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+235;2022-03-22 21:40:20;dev_integral;0;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Private
+236;2022-03-31 19:09:35;dev_premium;0;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+237;2022-03-09 15:11:04;dev_integral;0;agé;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+238;2022-05-07 11:43:44;dev_integral;5;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+239;2022-02-24 02:03:16;dev_integral;3;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+240;2022-05-24 09:47:23;dev_express;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+241;2022-02-25 23:45:51;dev_express;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+242;2022-03-29 07:38:59;dev_express;0;agé;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+243;2022-05-10 14:59:04;dev_express;6;agé;"[+75K;100K]";Oui;Highly Urban/ Urban;Sports Car;Private
+244;2022-05-14 19:19:02;dev_integral;3;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+245;2022-01-19 01:48:29;dev_integral;3;agé;"[0;25K]";Non;Highly Urban/ Urban;Van;Private
+246;2022-05-27 14:41:25;dev_premium;0;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+247;2022-01-13 11:51:51;dev_integral;0;jeune;"[0;25K]";Oui;z_Highly Rural/ Rural;Van;Commercial
+248;2022-04-08 01:47:31;dev_integral;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Private
+249;2022-04-26 15:04:52;dev_integral;2;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+250;2022-01-30 17:15:42;dev_integral;1;jeune;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+251;2022-05-18 05:21:15;dev_express;5;adulte;"[+50K;75K]";Non;z_Highly Rural/ Rural;z_SUV;Commercial
+252;2022-01-27 08:09:52;dev_premium;3;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Commercial
+253;2022-02-13 22:32:54;dev_express;0;adulte;+100K;Non;Highly Urban/ Urban;Van;Private
+254;2022-04-26 23:23:10;dev_integral;0;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+255;2022-05-26 00:20:31;dev_premium;2;adulte;"[+75K;100K]";Oui;z_Highly Rural/ Rural;Van;Commercial
+256;2022-02-06 07:26:48;dev_integral;0;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+257;2022-02-05 06:43:03;dev_express;0;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Private
+258;2022-03-26 06:02:00;dev_premium;0;agé;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Private
+259;2022-02-14 17:36:36;dev_express;4;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+260;2022-04-17 16:52:46;dev_integral;5;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+261;2022-02-12 04:17:48;dev_express;1;agé;"[+75K;100K]";Oui;Highly Urban/ Urban;Van;Commercial
+262;2022-03-20 21:08:51;dev_integral;0;jeune;+100K;Non;Highly Urban/ Urban;Pickup;Commercial
+263;2022-03-24 00:32:23;dev_express;7;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Van;Commercial
+264;2022-05-28 16:57:35;dev_integral;4;agé;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+265;2022-04-27 16:49:38;dev_integral;1;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+266;2022-01-28 09:25:34;dev_premium;1;adulte;"[+75K;100K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+267;2022-03-21 10:05:51;dev_express;4;jeune;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+268;2022-01-07 09:45:07;dev_integral;0;agé;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+269;2022-05-15 03:11:09;dev_premium;4;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+270;2022-02-09 14:04:59;dev_integral;4;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+271;2022-02-04 16:41:19;dev_express;3;agé;+100K;Non;Highly Urban/ Urban;Pickup;Commercial
+272;2022-04-30 22:43:02;dev_integral;3;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Van;Commercial
+273;2022-01-06 19:41:51;dev_express;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Van;Private
+274;2022-04-12 12:00:17;dev_express;2;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Private
+275;2022-04-25 16:57:27;dev_express;5;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+276;2022-01-01 07:42:58;dev_integral;4;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+277;2022-03-16 12:46:20;dev_express;5;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Commercial
+278;2022-03-20 11:43:59;dev_integral;3;jeune;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+279;2022-01-20 09:01:55;dev_integral;3;agé;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+280;2022-05-10 05:21:33;dev_integral;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+281;2022-01-10 01:26:00;dev_premium;5;jeune;"[0;25K]";Non;Highly Urban/ Urban;Sports Car;Private
+282;2022-03-28 12:26:43;dev_integral;0;jeune;"[+50K;75K]";Non;z_Highly Rural/ Rural;Sports Car;Private
+283;2022-04-13 14:44:19;dev_integral;4;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+284;2022-02-21 23:21:11;dev_integral;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+285;2022-01-15 01:35:54;dev_integral;2;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Private
+286;2022-01-25 15:18:53;dev_integral;0;adulte;"[+25K;50K]";Non;z_Highly Rural/ Rural;Pickup;Commercial
+287;2022-01-18 08:22:19;dev_integral;2;agé;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+288;2022-02-15 23:56:38;dev_express;0;agé;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+289;2022-01-27 03:55:48;dev_premium;1;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;Pickup;Private
+290;2022-03-18 07:40:09;dev_express;4;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Private
+291;2022-03-22 07:46:42;dev_integral;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Private
+292;2022-03-07 03:55:33;dev_integral;3;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+293;2022-05-18 22:10:27;dev_integral;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Van;Commercial
+294;2022-05-01 17:43:06;dev_express;1;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+295;2022-05-26 22:40:54;dev_integral;0;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;z_SUV;Private
+296;2022-04-23 11:29:17;dev_premium;6;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+297;2022-02-27 02:58:11;dev_express;1;agé;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+298;2022-04-16 10:28:32;dev_integral;2;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Private
+299;2022-03-21 00:34:36;dev_express;1;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Panel Truck;Commercial
+300;2022-05-10 09:58:34;dev_integral;0;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;Sports Car;Commercial
+301;2022-04-11 21:52:04;dev_integral;0;jeune;"[+75K;100K]";Oui;z_Highly Rural/ Rural;Pickup;Private
+302;2022-05-13 22:59:22;dev_express;0;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+303;2022-05-26 20:49:38;dev_integral;3;agé;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+304;2022-03-03 14:18:18;dev_express;0;agé;"[+25K;50K]";Non;z_Highly Rural/ Rural;Pickup;Private
+305;2022-01-26 19:37:12;dev_express;0;agé;+100K;Non;Highly Urban/ Urban;Sports Car;Private
+306;2022-01-22 01:15:05;dev_express;4;jeune;+100K;Non;Highly Urban/ Urban;Pickup;Commercial
+307;2022-05-25 07:24:02;dev_express;0;agé;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+308;2022-02-03 17:35:31;dev_premium;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+309;2022-01-08 02:38:04;dev_express;5;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+310;2022-05-02 00:05:58;dev_express;0;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Commercial
+311;2022-05-18 16:18:06;dev_express;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+312;2022-05-25 08:12:41;dev_premium;0;adulte;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Private
+313;2022-05-04 10:23:12;dev_integral;2;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Sports Car;Private
+314;2022-04-16 07:28:17;dev_integral;2;adulte;+100K;Oui;Highly Urban/ Urban;Pickup;Private
+315;2022-02-17 11:37:37;dev_integral;0;jeune;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+316;2022-04-25 08:56:36;dev_premium;0;agé;+100K;Non;Highly Urban/ Urban;Minivan;Private
+317;2022-03-24 18:04:55;dev_integral;0;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+318;2022-01-24 04:40:38;dev_express;0;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+319;2022-03-03 06:41:02;dev_integral;0;agé;"[0;25K]";Oui;z_Highly Rural/ Rural;Pickup;Private
+320;2022-01-29 15:32:16;dev_integral;0;adulte;+100K;Non;Highly Urban/ Urban;Van;Private
+321;2022-04-29 12:31:08;dev_integral;0;agé;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+322;2022-01-11 18:54:43;dev_integral;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Sports Car;Private
+323;2022-05-11 07:38:11;dev_express;7;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;Pickup;Commercial
+324;2022-05-07 22:16:31;dev_express;6;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+325;2022-02-08 23:25:47;dev_express;3;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Commercial
+326;2022-02-01 06:20:01;dev_integral;2;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+327;2022-03-10 16:31:37;dev_integral;3;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+328;2022-03-08 15:24:45;dev_integral;1;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+329;2022-05-27 17:51:45;dev_premium;1;adulte;"[+25K;50K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+330;2022-01-07 08:08:56;dev_vip;2;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Private
+331;2022-02-14 20:28:51;dev_express;0;agé;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+332;2022-02-21 01:00:18;dev_express;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Private
+333;2022-04-09 20:12:42;dev_integral;0;adulte;"[+25K;50K]";Oui;z_Highly Rural/ Rural;Van;Commercial
+334;2022-03-25 02:23:51;dev_integral;5;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+335;2022-03-31 08:06:25;dev_express;0;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;z_SUV;Private
+336;2022-02-02 02:18:25;dev_integral;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Private
+337;2022-05-08 12:04:30;dev_integral;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Commercial
+338;2022-04-04 21:09:56;dev_integral;0;adulte;+100K;Oui;Highly Urban/ Urban;z_SUV;Commercial
+339;2022-01-11 12:37:19;dev_express;3;jeune;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+340;2022-03-22 14:39:10;dev_express;4;adulte;+100K;Oui;Highly Urban/ Urban;Panel Truck;Commercial
+341;2022-01-30 05:24:39;dev_integral;0;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Sports Car;Commercial
+342;2022-05-09 02:49:14;dev_integral;7;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+343;2022-04-11 20:56:39;dev_integral;3;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Commercial
+344;2022-01-10 18:15:07;dev_integral;1;adulte;+100K;Non;Highly Urban/ Urban;Van;Commercial
+345;2022-03-26 19:37:55;dev_premium;2;adulte;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+346;2022-02-24 04:11:14;dev_express;10;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+347;2022-03-05 20:32:51;dev_integral;3;jeune;+100K;Oui;Highly Urban/ Urban;Panel Truck;Commercial
+348;2022-04-30 22:26:44;dev_express;0;agé;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+349;2022-01-26 05:23:46;dev_integral;0;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;Sports Car;Private
+350;2022-01-06 03:41:55;dev_vip;4;agé;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+351;2022-01-09 12:44:34;dev_integral;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+352;2022-01-13 00:17:29;dev_integral;1;agé;"[+75K;100K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+353;2022-05-10 08:42:34;dev_integral;8;agé;+100K;Non;Highly Urban/ Urban;Sports Car;Private
+354;2022-03-02 15:25:05;dev_integral;0;agé;"[+75K;100K]";Oui;z_Highly Rural/ Rural;Panel Truck;Commercial
+355;2022-01-30 12:21:04;dev_express;2;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;Minivan;Private
+356;2022-04-14 07:57:49;dev_integral;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+357;2022-05-29 01:33:19;dev_integral;0;jeune;+100K;Oui;Highly Urban/ Urban;Panel Truck;Commercial
+358;2022-05-24 02:16:40;dev_express;0;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Pickup;Private
+359;2022-01-27 13:08:08;dev_integral;2;adulte;"[+50K;75K]";Non;z_Highly Rural/ Rural;Pickup;Commercial
+360;2022-05-07 12:43:28;dev_express;3;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Van;Private
+361;2022-03-06 05:37:43;dev_premium;0;agé;"[+25K;50K]";Oui;z_Highly Rural/ Rural;z_SUV;Commercial
+362;2022-05-06 19:28:17;dev_express;1;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+363;2022-01-23 05:32:38;dev_premium;0;adulte;"[+50K;75K]";Oui;z_Highly Rural/ Rural;Minivan;Private
+364;2022-01-21 14:17:21;dev_integral;3;jeune;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+365;2022-05-24 23:51:28;dev_integral;1;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+366;2022-04-23 17:43:33;dev_integral;4;adulte;"[+25K;50K]";Oui;z_Highly Rural/ Rural;Minivan;Private
+367;2022-02-19 18:27:38;dev_express;0;adulte;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+368;2022-01-10 09:54:06;dev_express;0;agé;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Private
+369;2022-02-26 17:17:54;dev_premium;0;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Sports Car;Private
+370;2022-01-03 08:13:56;dev_express;0;jeune;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+371;2022-01-27 16:05:26;dev_integral;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+372;2022-05-26 01:19:31;dev_integral;2;agé;"[+25K;50K]";Non;z_Highly Rural/ Rural;Panel Truck;Commercial
+373;2022-03-07 14:13:21;dev_integral;3;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+374;2022-04-16 20:05:05;dev_express;3;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+375;2022-05-23 01:28:29;dev_express;3;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+376;2022-01-08 06:18:48;dev_premium;0;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+377;2022-05-29 04:55:24;dev_integral;0;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+378;2022-01-10 03:39:01;dev_integral;1;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Private
+379;2022-04-18 14:58:12;dev_integral;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+380;2022-01-16 03:51:45;dev_express;1;jeune;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+381;2022-01-02 13:57:06;dev_express;2;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Van;Commercial
+382;2022-03-18 04:49:48;dev_integral;3;agé;+100K;Non;Highly Urban/ Urban;Van;Commercial
+383;2022-01-19 09:26:29;dev_premium;0;agé;+100K;Non;Highly Urban/ Urban;Sports Car;Private
+384;2022-05-06 19:13:16;dev_integral;0;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+385;2022-04-27 00:03:33;dev_express;3;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+386;2022-02-16 20:52:00;dev_express;4;jeune;+100K;Non;Highly Urban/ Urban;Minivan;Private
+387;2022-03-06 03:04:38;dev_integral;0;agé;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Private
+388;2022-01-07 02:54:30;dev_express;0;adulte;"[+25K;50K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+389;2022-02-23 11:01:49;dev_express;0;agé;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+390;2022-04-11 10:47:39;dev_integral;0;adulte;+100K;Oui;Highly Urban/ Urban;z_SUV;Private
+391;2022-03-16 21:12:01;dev_integral;1;adulte;"[0;25K]";Non;Highly Urban/ Urban;Sports Car;Private
+392;2022-05-13 08:26:09;dev_express;2;adulte;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Commercial
+393;2022-01-08 21:15:51;dev_express;1;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+394;2022-03-13 10:59:15;dev_express;0;agé;+100K;Non;Highly Urban/ Urban;Van;Private
+395;2022-01-05 22:40:15;dev_express;3;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Commercial
+396;2022-02-17 01:45:20;dev_premium;1;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+397;2022-04-14 05:13:00;dev_premium;0;agé;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+398;2022-02-10 01:05:21;dev_express;2;agé;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+399;2022-04-17 21:45:58;dev_integral;0;agé;"[+75K;100K]";Oui;z_Highly Rural/ Rural;Minivan;Commercial
+400;2022-02-15 14:51:15;dev_integral;7;jeune;"[0;25K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+401;2022-04-07 15:44:29;dev_integral;0;jeune;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+402;2022-01-11 21:36:58;dev_express;8;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+403;2022-01-29 06:11:36;dev_express;0;agé;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+404;2022-01-27 10:26:14;dev_express;5;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+405;2022-04-09 17:13:23;dev_integral;0;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+406;2022-02-04 22:31:43;dev_integral;0;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+407;2022-04-13 19:59:01;dev_premium;2;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;Minivan;Private
+408;2022-03-01 04:29:22;dev_premium;1;adulte;"[0;25K]";Non;Highly Urban/ Urban;Van;Commercial
+409;2022-02-13 11:48:07;dev_premium;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+410;2022-03-27 04:34:07;dev_integral;2;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Van;Commercial
+411;2022-03-26 22:33:03;dev_express;0;adulte;+100K;Non;Highly Urban/ Urban;Sports Car;Private
+412;2022-04-05 17:32:06;dev_premium;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Private
+413;2022-01-23 22:34:08;dev_premium;2;jeune;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+414;2022-02-14 23:26:36;dev_integral;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Commercial
+415;2022-03-31 03:07:24;dev_express;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Private
+416;2022-05-11 06:47:38;dev_integral;1;adulte;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Private
+417;2022-03-24 15:19:18;dev_integral;7;adulte;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+418;2022-03-29 12:51:42;dev_express;6;agé;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Private
+419;2022-01-02 23:38:39;dev_integral;0;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Panel Truck;Commercial
+420;2022-05-29 03:14:16;dev_integral;5;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+421;2022-04-18 23:11:04;dev_integral;11;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Van;Private
+422;2022-04-17 11:37:04;dev_integral;2;agé;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Private
+423;2022-03-08 08:49:18;dev_integral;6;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Commercial
+424;2022-04-28 19:59:16;dev_express;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Sports Car;Private
+425;2022-04-05 14:33:17;dev_premium;1;adulte;"[+75K;100K]";Non;z_Highly Rural/ Rural;z_SUV;Commercial
+426;2022-03-30 17:39:25;dev_premium;0;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+427;2022-04-09 15:27:18;dev_integral;2;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+428;2022-05-06 19:05:37;dev_express;6;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+429;2022-04-29 01:23:36;dev_integral;4;agé;"[+25K;50K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+430;2022-01-03 09:08:34;dev_express;3;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+431;2022-05-09 02:38:56;dev_vip;1;jeune;"[+50K;75K]";Non;z_Highly Rural/ Rural;Panel Truck;Commercial
+432;2022-01-22 15:35:39;dev_integral;0;agé;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+433;2022-04-29 09:35:22;dev_express;0;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+434;2022-02-24 09:29:20;dev_integral;5;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+435;2022-04-01 04:04:04;dev_express;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+436;2022-02-12 03:31:15;dev_express;3;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Commercial
+437;2022-04-19 19:52:57;dev_integral;0;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Van;Private
+438;2022-02-06 22:10:32;dev_premium;2;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+439;2022-01-07 04:46:30;dev_integral;0;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+440;2022-03-19 01:46:03;dev_premium;0;jeune;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+441;2022-03-10 21:24:19;dev_integral;0;agé;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Private
+442;2022-05-08 21:30:12;dev_integral;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Commercial
+443;2022-03-09 21:30:33;dev_express;0;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+444;2022-04-20 18:29:34;dev_express;2;agé;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+445;2022-04-05 00:30:18;dev_integral;3;agé;+100K;Non;Highly Urban/ Urban;Pickup;Commercial
+446;2022-05-20 14:23:07;dev_integral;4;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;z_SUV;Private
+447;2022-03-03 09:25:00;dev_integral;1;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+448;2022-03-12 08:44:48;dev_express;2;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+449;2022-01-06 12:56:42;dev_express;0;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;Sports Car;Private
+450;2022-01-17 08:56:47;dev_express;7;jeune;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+451;2022-03-04 00:51:12;dev_integral;1;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+452;2022-02-28 08:01:27;dev_premium;0;adulte;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+453;2022-03-22 17:53:29;dev_express;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Van;Commercial
+454;2022-05-09 14:13:00;dev_express;0;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+455;2022-03-11 14:38:24;dev_integral;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Commercial
+456;2022-02-19 23:44:36;dev_integral;5;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Van;Commercial
+457;2022-04-28 20:05:16;dev_premium;2;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+458;2022-03-01 15:58:26;dev_integral;0;jeune;+100K;Non;Highly Urban/ Urban;Pickup;Private
+459;2022-01-17 02:58:37;dev_integral;1;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;Minivan;Private
+460;2022-03-12 07:57:05;dev_premium;0;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+461;2022-04-14 03:21:10;dev_express;1;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Sports Car;Private
+462;2022-02-17 11:06:56;dev_express;0;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+463;2022-04-19 19:04:55;dev_integral;2;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+464;2022-05-18 10:53:06;dev_integral;0;agé;"[0;25K]";Oui;z_Highly Rural/ Rural;Pickup;Commercial
+465;2022-03-13 05:28:18;dev_express;1;agé;"[+50K;75K]";Non;z_Highly Rural/ Rural;Pickup;Commercial
+466;2022-05-11 14:01:10;dev_express;0;jeune;+100K;Oui;Highly Urban/ Urban;Van;Commercial
+467;2022-01-11 02:15:32;dev_premium;1;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+468;2022-05-09 11:12:39;dev_integral;2;jeune;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+469;2022-01-04 12:36:23;dev_integral;6;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+470;2022-05-30 20:12:40;dev_express;7;adulte;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+471;2022-03-06 00:29:49;dev_express;1;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+472;2022-01-19 12:12:33;dev_premium;7;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+473;2022-04-20 02:39:03;dev_integral;2;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;Pickup;Private
+474;2022-05-24 17:45:20;dev_express;1;adulte;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+475;2022-03-26 13:13:06;dev_express;8;jeune;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+476;2022-03-23 14:10:11;dev_integral;1;agé;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+477;2022-04-12 00:22:50;dev_integral;0;jeune;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+478;2022-04-15 13:43:31;dev_integral;0;jeune;+100K;Non;Highly Urban/ Urban;Minivan;Private
+479;2022-04-20 01:02:27;dev_express;1;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Commercial
+480;2022-05-02 23:12:44;dev_integral;0;agé;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+481;2022-05-21 08:38:57;dev_express;6;agé;"[0;25K]";Oui;Highly Urban/ Urban;Van;Private
+482;2022-03-01 18:29:52;dev_express;0;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Private
+483;2022-05-10 11:14:08;dev_premium;3;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+484;2022-03-06 05:10:08;dev_integral;1;agé;+100K;Non;Highly Urban/ Urban;Sports Car;Private
+485;2022-05-26 01:21:38;dev_integral;0;jeune;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Private
+486;2022-04-25 09:36:01;dev_integral;1;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Sports Car;Private
+487;2022-05-29 19:59:25;dev_premium;0;adulte;"[+25K;50K]";Non;z_Highly Rural/ Rural;z_SUV;Commercial
+488;2022-02-03 15:04:52;dev_express;5;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Sports Car;Private
+489;2022-05-16 00:02:55;dev_express;0;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+490;2022-05-15 09:25:14;dev_express;1;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Private
+491;2022-05-28 03:24:40;dev_express;2;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Private
+492;2022-03-27 17:26:09;dev_integral;2;agé;"[0;25K]";Non;z_Highly Rural/ Rural;Pickup;Commercial
+493;2022-02-03 09:48:51;dev_integral;4;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+494;2022-05-06 15:53:44;dev_premium;4;jeune;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+495;2022-05-12 06:56:40;dev_premium;3;jeune;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Private
+496;2022-01-15 18:39:57;dev_integral;1;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Van;Commercial
+497;2022-01-24 13:18:40;dev_integral;1;jeune;"[0;25K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+498;2022-03-17 06:56:10;dev_integral;0;adulte;+100K;Non;Highly Urban/ Urban;Pickup;Private
+499;2022-03-29 02:50:07;dev_integral;1;agé;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+500;2022-05-10 07:12:09;dev_express;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Private
+501;2022-03-14 05:41:38;dev_express;0;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+502;2022-05-31 13:57:15;dev_premium;0;agé;"[+25K;50K]";Non;z_Highly Rural/ Rural;Pickup;Private
+503;2022-05-10 23:39:15;dev_integral;0;jeune;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+504;2022-05-14 00:58:28;dev_express;0;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+505;2022-05-07 14:05:04;dev_express;2;agé;+100K;Non;Highly Urban/ Urban;Van;Commercial
+506;2022-05-17 22:41:48;dev_integral;1;adulte;"[+50K;75K]";Non;z_Highly Rural/ Rural;Pickup;Private
+507;2022-03-17 06:05:38;dev_integral;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Commercial
+508;2022-03-15 03:25:16;dev_premium;3;adulte;+100K;Non;Highly Urban/ Urban;Van;Commercial
+509;2022-03-30 17:24:37;dev_express;0;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+510;2022-01-21 20:42:50;dev_express;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+511;2022-01-18 19:29:14;dev_express;2;adulte;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+512;2022-04-19 21:43:17;dev_integral;1;jeune;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Commercial
+513;2022-05-18 13:33:24;dev_premium;0;adulte;"[+25K;50K]";Non;z_Highly Rural/ Rural;Pickup;Commercial
+514;2022-04-04 15:50:44;dev_express;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+515;2022-03-25 07:11:37;dev_integral;0;adulte;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+516;2022-03-23 12:28:36;dev_integral;7;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+517;2022-03-25 13:33:27;dev_express;0;jeune;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+518;2022-02-23 20:23:47;dev_integral;0;jeune;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+519;2022-04-08 12:44:29;dev_premium;4;agé;+100K;Non;Highly Urban/ Urban;z_SUV;Commercial
+520;2022-02-25 05:54:55;dev_integral;0;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+521;2022-02-07 00:44:53;dev_integral;2;agé;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+522;2022-04-01 01:13:47;dev_integral;0;jeune;"[0;25K]";Oui;z_Highly Rural/ Rural;Minivan;Commercial
+523;2022-05-25 18:59:56;dev_express;3;jeune;+100K;Non;Highly Urban/ Urban;Minivan;Private
+524;2022-04-21 16:29:21;dev_express;5;agé;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+525;2022-05-31 05:19:06;dev_premium;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+526;2022-02-19 08:11:18;dev_express;0;jeune;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+527;2022-05-23 14:29:35;dev_integral;9;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+528;2022-02-24 11:57:19;dev_integral;0;agé;"[+75K;100K]";Oui;z_Highly Rural/ Rural;Pickup;Commercial
+529;2022-05-28 16:47:33;dev_express;0;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;Sports Car;Private
+530;2022-05-18 20:48:36;dev_express;0;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+531;2022-03-12 12:59:08;dev_express;4;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Panel Truck;Commercial
+532;2022-03-06 13:23:43;dev_express;2;adulte;"[+50K;75K]";Oui;z_Highly Rural/ Rural;Pickup;Commercial
+533;2022-03-04 01:37:05;dev_express;3;agé;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+534;2022-05-10 23:21:25;dev_premium;2;agé;"[+25K;50K]";Oui;z_Highly Rural/ Rural;Pickup;Commercial
+535;2022-04-08 22:16:19;dev_express;3;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Pickup;Private
+536;2022-01-20 06:01:27;dev_express;1;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+537;2022-01-06 05:05:28;dev_express;2;agé;"[0;25K]";Oui;z_Highly Rural/ Rural;Minivan;Private
+538;2022-01-07 02:17:29;dev_integral;2;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;Sports Car;Private
+539;2022-05-04 21:01:36;dev_express;1;adulte;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Private
+540;2022-05-05 07:55:20;dev_integral;2;jeune;+100K;Non;Highly Urban/ Urban;Pickup;Private
+541;2022-03-14 00:41:34;dev_express;7;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;Sports Car;Private
+542;2022-02-13 12:27:51;dev_express;2;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+543;2022-03-27 16:30:18;dev_integral;0;agé;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Private
+544;2022-02-02 14:25:47;dev_integral;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Private
+545;2022-05-22 06:17:46;dev_integral;0;agé;"[+75K;100K]";Oui;z_Highly Rural/ Rural;Panel Truck;Commercial
+546;2022-02-03 18:51:28;dev_integral;2;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Private
+547;2022-04-17 11:05:04;dev_express;3;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+548;2022-01-30 11:38:07;dev_integral;0;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Private
+549;2022-01-04 23:37:25;dev_integral;3;agé;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+550;2022-02-20 01:38:02;dev_premium;2;jeune;"[+25K;50K]";Oui;z_Highly Rural/ Rural;Pickup;Private
+551;2022-03-22 18:25:21;dev_integral;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+552;2022-04-14 03:08:54;dev_integral;0;agé;"[0;25K]";Non;Highly Urban/ Urban;Sports Car;Private
+553;2022-03-28 18:19:41;dev_integral;4;agé;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+554;2022-01-15 01:30:33;dev_integral;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+555;2022-03-30 17:09:10;dev_express;1;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+556;2022-04-03 06:29:36;dev_express;0;jeune;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Private
+557;2022-04-11 23:33:50;dev_integral;0;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+558;2022-05-18 18:08:52;dev_integral;0;agé;"[0;25K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+559;2022-04-02 09:07:34;dev_integral;4;agé;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Private
+560;2022-03-09 14:39:32;dev_express;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+561;2022-04-13 11:26:04;dev_integral;0;jeune;"[0;25K]";Non;Highly Urban/ Urban;Sports Car;Private
+562;2022-03-14 13:17:00;dev_integral;3;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Van;Commercial
+563;2022-05-12 14:47:57;dev_express;1;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+564;2022-01-01 20:24:55;dev_integral;0;jeune;"[0;25K]";Oui;Highly Urban/ Urban;Van;Private
+565;2022-05-25 20:36:27;dev_express;4;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;z_SUV;Private
+566;2022-05-16 05:07:27;dev_express;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+567;2022-02-27 02:15:53;dev_integral;1;jeune;"[0;25K]";Oui;Highly Urban/ Urban;Pickup;Private
+568;2022-03-09 09:41:41;dev_integral;0;agé;+100K;Non;Highly Urban/ Urban;Pickup;Private
+569;2022-05-31 15:49:28;dev_express;4;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+570;2022-03-02 14:10:16;dev_premium;0;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+571;2022-04-24 21:41:36;dev_premium;0;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;Panel Truck;Commercial
+572;2022-01-21 07:59:13;dev_express;3;agé;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+573;2022-03-07 19:35:27;dev_express;4;agé;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+574;2022-05-31 11:14:25;dev_express;0;jeune;"[0;25K]";Non;z_Highly Rural/ Rural;Pickup;Private
+575;2022-05-13 02:36:21;dev_integral;4;agé;"[+75K;100K]";Oui;Highly Urban/ Urban;Van;Commercial
+576;2022-05-23 03:01:32;dev_integral;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Private
+577;2022-05-11 03:02:56;dev_express;1;jeune;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Commercial
+578;2022-04-05 00:02:42;dev_integral;3;adulte;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+579;2022-05-27 18:51:41;dev_integral;8;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+580;2022-04-20 23:17:36;dev_premium;2;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Private
+581;2022-01-25 19:36:43;dev_express;0;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Panel Truck;Commercial
+582;2022-04-08 01:19:47;dev_express;1;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+583;2022-02-18 12:19:11;dev_integral;0;agé;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Private
+584;2022-01-12 18:29:46;dev_integral;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Commercial
+585;2022-01-10 15:03:43;dev_integral;2;agé;"[0;25K]";Non;Highly Urban/ Urban;Sports Car;Private
+586;2022-05-10 11:42:11;dev_premium;1;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Private
+587;2022-03-23 10:29:31;dev_premium;0;agé;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+588;2022-02-19 03:28:57;dev_integral;5;adulte;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+589;2022-04-27 20:44:46;dev_express;0;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+590;2022-04-23 04:43:46;dev_express;0;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Private
+591;2022-05-21 08:25:37;dev_integral;5;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+592;2022-01-06 08:39:20;dev_express;6;jeune;+100K;Non;Highly Urban/ Urban;Van;Private
+593;2022-04-08 00:39:02;dev_integral;0;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;z_SUV;Private
+594;2022-04-25 11:54:45;dev_integral;0;agé;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+595;2022-01-09 11:28:13;dev_express;1;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Private
+596;2022-02-05 05:34:09;dev_integral;2;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Private
+597;2022-03-01 11:59:23;dev_integral;2;agé;+100K;Non;Highly Urban/ Urban;Minivan;Private
+598;2022-02-14 22:46:20;dev_premium;2;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;Sports Car;Private
+599;2022-02-13 06:18:22;dev_integral;7;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+600;2022-03-11 21:23:12;dev_premium;2;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;Pickup;Commercial
+601;2022-01-12 21:51:52;dev_express;1;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+602;2022-03-10 05:03:17;dev_integral;0;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+603;2022-05-10 21:14:19;dev_express;0;agé;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+604;2022-01-11 06:26:38;dev_premium;3;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+605;2022-05-05 14:13:13;dev_premium;0;jeune;"[0;25K]";Non;z_Highly Rural/ Rural;Sports Car;Private
+606;2022-02-21 10:07:06;dev_integral;1;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+607;2022-04-07 18:39:37;dev_premium;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Van;Commercial
+608;2022-02-07 05:05:07;dev_integral;2;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Commercial
+609;2022-05-28 05:50:47;dev_express;0;jeune;"[+25K;50K]";Oui;z_Highly Rural/ Rural;z_SUV;Commercial
+610;2022-03-03 11:24:14;dev_integral;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+611;2022-02-07 03:36:40;dev_integral;0;jeune;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+612;2022-01-07 05:37:50;dev_premium;0;adulte;"[+75K;100K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+613;2022-02-26 03:44:35;dev_premium;0;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Commercial
+614;2022-04-07 19:50:06;dev_integral;0;jeune;+100K;Non;Highly Urban/ Urban;Van;Private
+615;2022-03-22 11:12:41;dev_express;4;agé;+100K;Non;Highly Urban/ Urban;Sports Car;Private
+616;2022-01-12 10:58:34;dev_integral;1;jeune;"[+75K;100K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+617;2022-03-10 08:37:49;dev_integral;0;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Sports Car;Private
+618;2022-02-11 07:56:33;dev_integral;2;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+619;2022-04-17 04:32:21;dev_express;2;jeune;"[+75K;100K]";Non;z_Highly Rural/ Rural;Minivan;Private
+620;2022-05-20 14:45:32;dev_integral;3;agé;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+621;2022-01-08 16:09:39;dev_express;0;jeune;+100K;Non;z_Highly Rural/ Rural;Panel Truck;Commercial
+622;2022-03-14 14:20:20;dev_express;3;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Sports Car;Private
+623;2022-05-23 23:35:14;dev_integral;0;jeune;+100K;Non;Highly Urban/ Urban;Pickup;Private
+624;2022-04-09 21:55:44;dev_integral;1;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+625;2022-04-28 17:36:46;dev_integral;0;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Van;Private
+626;2022-02-17 09:12:42;dev_premium;3;jeune;"[+25K;50K]";Non;z_Highly Rural/ Rural;Pickup;Private
+627;2022-04-16 00:49:13;dev_express;2;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+628;2022-04-14 05:42:42;dev_express;0;jeune;+100K;Non;Highly Urban/ Urban;Minivan;Private
+629;2022-04-26 08:50:42;dev_premium;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Commercial
+630;2022-04-24 02:36:25;dev_integral;4;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Private
+631;2022-03-03 12:44:04;dev_integral;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Private
+632;2022-03-18 03:03:17;dev_integral;1;jeune;+100K;Non;Highly Urban/ Urban;Minivan;Private
+633;2022-04-28 02:43:06;dev_integral;2;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Private
+634;2022-03-22 08:53:53;dev_express;1;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;Van;Commercial
+635;2022-02-08 19:17:02;dev_integral;4;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+636;2022-02-08 07:38:08;dev_integral;0;jeune;"[+75K;100K]";Non;z_Highly Rural/ Rural;Panel Truck;Commercial
+637;2022-02-07 21:25:28;dev_integral;0;agé;"[+25K;50K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+638;2022-03-22 09:48:58;dev_express;2;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+639;2022-04-13 20:56:49;dev_premium;1;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Commercial
+640;2022-02-16 18:11:28;dev_premium;4;agé;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+641;2022-03-01 17:16:32;dev_integral;0;jeune;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+642;2022-01-17 23:45:07;dev_integral;0;jeune;"[+25K;50K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+643;2022-05-21 16:11:14;dev_integral;2;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;Minivan;Private
+644;2022-04-17 06:36:00;dev_premium;6;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+645;2022-02-13 20:08:36;dev_integral;0;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+646;2022-03-08 23:49:55;dev_express;0;agé;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+647;2022-05-01 01:21:14;dev_integral;1;adulte;"[+75K;100K]";Non;z_Highly Rural/ Rural;Minivan;Commercial
+648;2022-02-10 01:30:27;dev_integral;0;jeune;+100K;Non;Highly Urban/ Urban;Pickup;Commercial
+649;2022-03-17 21:10:27;dev_integral;0;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;Sports Car;Private
+650;2022-02-10 16:25:10;dev_premium;1;adulte;"[+25K;50K]";Non;z_Highly Rural/ Rural;z_SUV;Commercial
+651;2022-01-16 23:49:30;dev_integral;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+652;2022-01-05 00:48:05;dev_integral;6;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+653;2022-01-11 17:35:07;dev_vip;0;adulte;+100K;Oui;Highly Urban/ Urban;Panel Truck;Commercial
+654;2022-03-11 05:31:41;dev_integral;0;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+655;2022-01-10 23:47:26;dev_integral;0;agé;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+656;2022-05-15 02:01:28;dev_integral;1;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Van;Commercial
+657;2022-01-03 03:03:08;dev_integral;2;agé;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+658;2022-01-22 15:37:29;dev_integral;1;agé;+100K;Non;Highly Urban/ Urban;Minivan;Private
+659;2022-04-03 02:13:34;dev_premium;1;agé;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+660;2022-03-15 03:15:04;dev_integral;4;jeune;"[+25K;50K]";Non;z_Highly Rural/ Rural;Pickup;Commercial
+661;2022-05-11 04:46:13;dev_vip;2;agé;"[0;25K]";Non;z_Highly Rural/ Rural;Van;Private
+662;2022-02-20 07:23:01;dev_premium;5;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+663;2022-03-07 13:13:58;dev_integral;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Private
+664;2022-04-11 09:32:06;dev_integral;4;adulte;+100K;Oui;Highly Urban/ Urban;Pickup;Commercial
+665;2022-01-21 11:49:46;dev_premium;0;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+666;2022-03-22 17:47:29;dev_integral;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+667;2022-04-11 05:16:58;dev_integral;4;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Commercial
+668;2022-01-17 13:39:09;dev_integral;2;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+669;2022-04-08 10:46:40;dev_integral;4;jeune;+100K;Oui;Highly Urban/ Urban;z_SUV;Private
+670;2022-05-10 07:15:08;dev_express;3;jeune;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Commercial
+671;2022-02-23 18:30:28;dev_integral;1;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+672;2022-04-02 18:10:44;dev_express;1;agé;"[+50K;75K]";Oui;z_Highly Rural/ Rural;Pickup;Private
+673;2022-02-15 10:36:10;dev_integral;1;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Commercial
+674;2022-01-08 08:43:16;dev_express;0;agé;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Commercial
+675;2022-03-24 03:47:30;dev_integral;4;agé;"[+75K;100K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+676;2022-05-24 19:47:02;dev_integral;5;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+677;2022-01-17 11:38:41;dev_integral;5;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+678;2022-03-17 13:43:55;dev_integral;3;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+679;2022-03-18 08:18:42;dev_integral;0;jeune;"[+50K;75K]";Non;z_Highly Rural/ Rural;Minivan;Private
+680;2022-01-05 16:14:35;dev_express;1;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Van;Commercial
+681;2022-05-13 22:19:50;dev_premium;0;jeune;+100K;Non;Highly Urban/ Urban;Van;Commercial
+682;2022-01-14 17:48:47;dev_express;0;agé;"[+25K;50K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+683;2022-01-16 03:47:15;dev_premium;1;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+684;2022-04-13 12:18:53;dev_integral;1;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+685;2022-03-09 00:05:26;dev_express;0;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+686;2022-03-15 22:50:48;dev_express;0;agé;+100K;Non;Highly Urban/ Urban;Minivan;Private
+687;2022-02-07 07:14:19;dev_integral;2;agé;"[+75K;100K]";Non;z_Highly Rural/ Rural;Van;Commercial
+688;2022-03-08 11:24:19;dev_express;0;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Commercial
+689;2022-01-07 08:04:44;dev_premium;0;jeune;"[0;25K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+690;2022-04-13 05:45:17;dev_premium;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+691;2022-05-30 04:03:38;dev_integral;0;agé;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+692;2022-03-10 05:51:11;dev_premium;4;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Commercial
+693;2022-05-02 04:51:14;dev_express;1;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+694;2022-05-04 19:49:19;dev_express;2;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Private
+695;2022-05-17 09:44:30;dev_express;2;jeune;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+696;2022-04-25 12:32:19;dev_express;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+697;2022-05-11 08:01:49;dev_express;1;jeune;+100K;Non;z_Highly Rural/ Rural;Minivan;Private
+698;2022-02-05 16:47:05;dev_integral;1;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Private
+699;2022-03-03 08:35:51;dev_express;6;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;Minivan;Private
+700;2022-05-18 20:23:08;dev_integral;0;adulte;"[+25K;50K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+701;2022-02-25 18:38:41;dev_integral;0;adulte;"[+50K;75K]";Non;z_Highly Rural/ Rural;Minivan;Commercial
+702;2022-01-18 19:21:58;dev_vip;5;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+703;2022-05-08 19:44:35;dev_premium;3;adulte;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+704;2022-02-19 06:28:01;dev_express;0;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+705;2022-01-10 07:16:54;dev_express;6;jeune;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+706;2022-03-30 01:16:37;dev_express;1;agé;"[+50K;75K]";Non;z_Highly Rural/ Rural;Minivan;Commercial
+707;2022-05-07 20:16:31;dev_express;1;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;Van;Private
+708;2022-05-20 20:22:14;dev_express;0;jeune;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+709;2022-05-07 13:12:02;dev_integral;3;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Van;Commercial
+710;2022-04-04 10:38:31;dev_premium;0;agé;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+711;2022-03-04 16:27:18;dev_express;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Private
+712;2022-02-11 02:39:22;dev_integral;1;agé;"[0;25K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+713;2022-03-31 21:08:05;dev_premium;0;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+714;2022-01-26 05:48:18;dev_express;0;agé;+100K;Non;Highly Urban/ Urban;Van;Private
+715;2022-02-13 02:19:25;dev_integral;2;agé;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Commercial
+716;2022-01-15 14:58:09;dev_premium;0;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Private
+717;2022-02-23 06:59:14;dev_integral;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+718;2022-03-21 16:57:22;dev_integral;0;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;z_SUV;Private
+719;2022-04-29 21:33:44;dev_integral;0;jeune;+100K;Non;Highly Urban/ Urban;Sports Car;Private
+720;2022-03-07 01:05:15;dev_express;0;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+721;2022-05-29 02:01:00;dev_express;0;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+722;2022-03-10 20:21:17;dev_express;2;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+723;2022-02-08 03:10:28;dev_express;2;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+724;2022-04-11 13:50:10;dev_integral;8;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Van;Commercial
+725;2022-05-26 21:07:04;dev_integral;0;agé;"[0;25K]";Non;Highly Urban/ Urban;Van;Private
+726;2022-04-18 15:10:43;dev_express;4;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+727;2022-02-19 13:54:09;dev_express;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Commercial
+728;2022-04-12 01:15:33;dev_integral;3;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+729;2022-04-17 18:55:21;dev_integral;0;agé;"[+25K;50K]";Oui;z_Highly Rural/ Rural;Pickup;Commercial
+730;2022-03-23 15:44:07;dev_integral;4;agé;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+731;2022-02-05 20:30:47;dev_integral;4;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+732;2022-03-26 22:33:21;dev_premium;0;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Private
+733;2022-04-18 16:02:57;dev_integral;3;adulte;+100K;Non;Highly Urban/ Urban;Van;Commercial
+734;2022-03-01 15:06:34;dev_integral;1;jeune;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+735;2022-01-30 08:56:36;dev_integral;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+736;2022-02-02 16:00:40;dev_express;6;jeune;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+737;2022-04-08 12:42:23;dev_integral;0;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+738;2022-04-01 19:14:49;dev_express;4;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+739;2022-01-07 22:44:04;dev_premium;0;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+740;2022-05-06 19:34:02;dev_integral;3;adulte;+100K;Oui;Highly Urban/ Urban;z_SUV;Private
+741;2022-05-26 22:28:41;dev_premium;2;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Van;Private
+742;2022-03-09 14:05:41;dev_integral;0;agé;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+743;2022-02-04 19:11:57;dev_integral;3;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Van;Private
+744;2022-03-30 17:53:06;dev_express;3;agé;"[+75K;100K]";Oui;z_Highly Rural/ Rural;Minivan;Commercial
+745;2022-01-05 01:49:38;dev_integral;0;adulte;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Private
+746;2022-03-13 10:35:02;dev_express;0;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Commercial
+747;2022-04-13 11:44:32;dev_integral;0;agé;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Commercial
+748;2022-05-03 02:56:46;dev_express;1;agé;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+749;2022-03-10 06:59:20;dev_express;5;agé;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+750;2022-03-19 08:30:16;dev_integral;0;jeune;+100K;Non;Highly Urban/ Urban;z_SUV;Commercial
+751;2022-05-12 21:36:25;dev_integral;3;jeune;"[0;25K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+752;2022-04-19 01:39:33;dev_express;4;agé;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+753;2022-03-09 04:34:25;dev_express;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+754;2022-03-30 06:16:31;dev_integral;1;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+755;2022-01-17 09:47:19;dev_integral;2;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Private
+756;2022-04-14 13:13:38;dev_express;7;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+757;2022-04-07 23:39:14;dev_premium;1;adulte;"[0;25K]";Non;Highly Urban/ Urban;Sports Car;Private
+758;2022-01-26 06:42:00;dev_integral;1;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Private
+759;2022-01-26 18:39:10;dev_integral;2;jeune;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+760;2022-03-15 15:42:25;dev_integral;2;adulte;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+761;2022-05-30 14:54:36;dev_integral;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+762;2022-04-09 00:17:26;dev_express;2;jeune;"[0;25K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+763;2022-05-21 17:50:08;dev_premium;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+764;2022-01-01 05:44:52;dev_integral;0;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+765;2022-02-24 00:48:26;dev_express;2;agé;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+766;2022-01-12 00:48:43;dev_integral;2;jeune;+100K;Non;Highly Urban/ Urban;Pickup;Private
+767;2022-01-14 11:52:33;dev_integral;0;agé;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+768;2022-02-02 05:11:47;dev_integral;1;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;Pickup;Commercial
+769;2022-04-10 20:24:17;dev_integral;2;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+770;2022-05-28 19:58:48;dev_integral;4;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+771;2022-05-19 06:35:00;dev_integral;1;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Commercial
+772;2022-03-05 18:04:15;dev_integral;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+773;2022-01-04 08:53:31;dev_express;3;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Commercial
+774;2022-04-23 00:38:02;dev_integral;2;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Van;Commercial
+775;2022-01-19 08:22:21;dev_integral;2;agé;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+776;2022-05-14 21:13:43;dev_integral;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Commercial
+777;2022-02-22 09:35:11;dev_integral;4;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Commercial
+778;2022-02-24 12:40:25;dev_integral;0;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+779;2022-05-26 12:01:30;dev_express;0;agé;"[0;25K]";Oui;Highly Urban/ Urban;Panel Truck;Commercial
+780;2022-01-14 18:54:04;dev_integral;1;adulte;+100K;Oui;z_Highly Rural/ Rural;z_SUV;Commercial
+781;2022-01-06 06:03:12;dev_premium;1;agé;"[+50K;75K]";Non;z_Highly Rural/ Rural;Minivan;Private
+782;2022-01-21 20:55:41;dev_integral;3;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;z_SUV;Private
+783;2022-04-12 15:22:58;dev_integral;2;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+784;2022-01-05 05:59:38;dev_premium;1;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+785;2022-01-10 06:19:10;dev_integral;1;adulte;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+786;2022-04-08 06:27:39;dev_premium;0;adulte;"[+50K;75K]";Non;z_Highly Rural/ Rural;Minivan;Commercial
+787;2022-03-30 15:14:49;dev_integral;3;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Private
+788;2022-04-12 05:10:45;dev_express;0;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+789;2022-03-15 08:34:32;dev_integral;1;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+790;2022-03-12 10:18:18;dev_integral;4;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+791;2022-03-14 14:38:44;dev_integral;1;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Commercial
+792;2022-01-09 22:09:48;dev_integral;0;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Van;Commercial
+793;2022-02-27 16:55:05;dev_express;1;adulte;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+794;2022-02-02 08:14:17;dev_premium;0;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+795;2022-03-06 16:17:43;dev_express;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+796;2022-01-06 06:25:05;dev_express;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+797;2022-04-03 02:20:45;dev_integral;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+798;2022-04-30 23:07:19;dev_integral;0;adulte;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+799;2022-03-19 17:09:26;dev_integral;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Private
+800;2022-01-24 05:53:36;dev_express;0;agé;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Private
+801;2022-02-23 04:42:44;dev_integral;0;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+802;2022-05-17 10:24:02;dev_integral;7;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Commercial
+803;2022-03-06 00:45:00;dev_express;4;jeune;"[0;25K]";Non;Highly Urban/ Urban;Van;Private
+804;2022-03-13 16:07:01;dev_integral;1;jeune;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Private
+805;2022-02-10 20:24:01;dev_premium;0;jeune;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+806;2022-01-16 04:07:39;dev_integral;0;agé;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+807;2022-05-19 17:14:19;dev_express;6;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+808;2022-04-18 02:22:39;dev_express;2;agé;+100K;Oui;Highly Urban/ Urban;z_SUV;Private
+809;2022-01-13 09:31:06;dev_integral;2;agé;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Commercial
+810;2022-05-28 06:19:28;dev_integral;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+811;2022-03-28 01:51:32;dev_express;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+812;2022-03-15 17:21:56;dev_integral;1;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Private
+813;2022-03-10 08:41:18;dev_integral;0;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Pickup;Private
+814;2022-01-20 06:27:49;dev_express;4;agé;"[+50K;75K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+815;2022-04-09 17:10:50;dev_integral;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+816;2022-03-05 15:27:58;dev_premium;1;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Commercial
+817;2022-04-09 10:34:21;dev_premium;0;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;Van;Commercial
+818;2022-02-16 13:50:18;dev_integral;5;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Pickup;Private
+819;2022-04-06 17:34:06;dev_integral;6;agé;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+820;2022-03-23 08:12:42;dev_express;4;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Van;Private
+821;2022-01-25 03:27:59;dev_express;3;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+822;2022-01-21 09:35:42;dev_express;1;jeune;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+823;2022-01-27 16:51:34;dev_integral;8;agé;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+824;2022-04-22 14:21:01;dev_integral;9;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+825;2022-03-13 23:40:09;dev_express;0;agé;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+826;2022-01-15 03:03:13;dev_premium;4;adulte;+100K;Non;Highly Urban/ Urban;Van;Commercial
+827;2022-02-24 23:09:42;dev_express;3;jeune;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+828;2022-03-27 17:51:21;dev_integral;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+829;2022-04-02 07:37:34;dev_express;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Van;Commercial
+830;2022-02-18 07:19:11;dev_integral;1;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+831;2022-04-17 09:27:32;dev_integral;2;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Private
+832;2022-05-20 03:29:57;dev_express;3;adulte;"[+25K;50K]";Non;z_Highly Rural/ Rural;Pickup;Commercial
+833;2022-01-29 23:20:08;dev_integral;0;jeune;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+834;2022-05-01 19:40:24;dev_express;3;adulte;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+835;2022-05-02 20:32:10;dev_premium;4;jeune;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+836;2022-04-22 21:23:09;dev_express;4;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Van;Commercial
+837;2022-01-24 10:55:05;dev_integral;7;agé;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+838;2022-02-23 01:41:54;dev_premium;0;jeune;+100K;Non;Highly Urban/ Urban;Pickup;Private
+839;2022-05-22 10:59:54;dev_premium;4;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Van;Commercial
+840;2022-03-17 14:31:47;dev_vip;0;adulte;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+841;2022-04-04 00:54:06;dev_express;0;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+842;2022-05-01 00:26:22;dev_integral;4;jeune;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Private
+843;2022-05-02 17:11:53;dev_integral;4;agé;"[0;25K]";Oui;Highly Urban/ Urban;Panel Truck;Commercial
+844;2022-03-28 12:11:58;dev_integral;0;jeune;+100K;Oui;z_Highly Rural/ Rural;Pickup;Commercial
+845;2022-05-19 17:35:59;dev_integral;1;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+846;2022-05-14 09:17:35;dev_express;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Van;Private
+847;2022-05-06 04:55:07;dev_premium;0;agé;+100K;Oui;Highly Urban/ Urban;z_SUV;Private
+848;2022-04-25 02:13:33;dev_premium;2;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Commercial
+849;2022-03-18 15:22:24;dev_premium;6;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+850;2022-04-15 20:51:21;dev_integral;0;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+851;2022-01-20 21:33:08;dev_premium;0;agé;+100K;Non;Highly Urban/ Urban;Pickup;Commercial
+852;2022-03-14 05:31:29;dev_vip;4;jeune;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+853;2022-01-08 07:30:41;dev_express;3;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Private
+854;2022-04-21 14:09:28;dev_integral;0;agé;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+855;2022-02-19 17:32:43;dev_premium;4;agé;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+856;2022-04-04 09:50:44;dev_integral;2;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;Panel Truck;Commercial
+857;2022-01-17 08:07:21;dev_premium;4;adulte;+100K;Oui;z_Highly Rural/ Rural;z_SUV;Private
+858;2022-01-14 22:35:27;dev_express;5;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+859;2022-02-01 10:47:01;dev_integral;4;adulte;+100K;Non;Highly Urban/ Urban;Van;Commercial
+860;2022-04-03 06:07:12;dev_integral;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+861;2022-02-25 19:43:51;dev_integral;5;adulte;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Private
+862;2022-05-14 23:10:17;dev_express;0;jeune;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+863;2022-02-01 20:17:14;dev_express;2;adulte;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Private
+864;2022-02-09 10:27:00;dev_premium;1;jeune;+100K;Non;Highly Urban/ Urban;Minivan;Private
+865;2022-01-13 10:00:28;dev_integral;3;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;Pickup;Private
+866;2022-05-14 03:38:14;dev_express;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+867;2022-01-27 11:04:39;dev_premium;3;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+868;2022-01-03 08:30:44;dev_integral;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Van;Commercial
+869;2022-03-26 11:54:31;dev_integral;4;agé;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+870;2022-03-07 22:55:06;dev_integral;0;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Private
+871;2022-03-01 05:37:07;dev_integral;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+872;2022-05-04 07:09:25;dev_integral;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+873;2022-02-04 19:41:35;dev_express;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+874;2022-04-26 10:16:38;dev_premium;6;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Commercial
+875;2022-01-02 05:31:09;dev_integral;1;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+876;2022-03-26 09:04:08;dev_integral;7;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+877;2022-01-16 22:31:15;dev_integral;3;adulte;"[0;25K]";Non;Highly Urban/ Urban;Van;Private
+878;2022-05-26 01:56:50;dev_integral;0;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;Sports Car;Private
+879;2022-03-24 15:49:56;dev_express;0;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Commercial
+880;2022-04-20 06:44:39;dev_express;2;adulte;"[+25K;50K]";Oui;z_Highly Rural/ Rural;Sports Car;Private
+881;2022-05-11 12:25:23;dev_integral;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Private
+882;2022-01-13 05:16:18;dev_express;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Commercial
+883;2022-03-21 21:34:02;dev_express;2;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+884;2022-01-18 19:42:23;dev_express;0;adulte;+100K;Non;z_Highly Rural/ Rural;Minivan;Private
+885;2022-04-13 16:21:06;dev_express;1;agé;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+886;2022-04-24 13:56:48;dev_express;0;agé;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+887;2022-02-10 20:57:17;dev_premium;4;adulte;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+888;2022-02-28 13:38:37;dev_integral;0;agé;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Private
+889;2022-02-05 23:52:53;dev_express;0;agé;"[0;25K]";Oui;z_Highly Rural/ Rural;Pickup;Private
+890;2022-03-27 09:37:16;dev_express;1;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Private
+891;2022-01-05 09:36:47;dev_express;2;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+892;2022-05-03 13:03:51;dev_express;2;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+893;2022-03-26 15:22:17;dev_express;0;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+894;2022-01-31 22:44:49;dev_express;1;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+895;2022-04-30 07:11:54;dev_express;1;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+896;2022-02-04 16:10:20;dev_premium;0;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;Panel Truck;Commercial
+897;2022-01-20 00:18:23;dev_integral;4;agé;"[+25K;50K]";Oui;z_Highly Rural/ Rural;Sports Car;Private
+898;2022-03-22 00:59:26;dev_integral;0;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+899;2022-05-31 06:29:01;dev_premium;0;agé;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+900;2022-01-05 05:06:37;dev_integral;4;adulte;"[0;25K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+901;2022-04-23 05:49:58;dev_express;10;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+902;2022-05-02 13:16:37;dev_express;0;jeune;"[+75K;100K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+903;2022-04-11 11:41:45;dev_integral;0;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+904;2022-02-04 15:17:12;dev_express;4;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Private
+905;2022-01-22 15:31:10;dev_vip;0;adulte;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Private
+906;2022-03-18 16:21:30;dev_express;2;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+907;2022-02-08 16:14:23;dev_integral;0;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Pickup;Private
+908;2022-02-21 08:59:46;dev_express;0;jeune;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Commercial
+909;2022-01-13 01:41:47;dev_integral;2;jeune;+100K;Non;Highly Urban/ Urban;Van;Commercial
+910;2022-05-20 20:26:28;dev_express;0;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;Pickup;Private
+911;2022-02-19 12:40:40;dev_express;2;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+912;2022-04-13 06:07:12;dev_premium;0;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+913;2022-03-25 10:32:38;dev_integral;0;adulte;"[+50K;75K]";Non;z_Highly Rural/ Rural;z_SUV;Commercial
+914;2022-05-08 03:44:39;dev_express;1;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Sports Car;Private
+915;2022-01-08 09:26:52;dev_express;3;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+916;2022-02-20 21:02:08;dev_integral;2;agé;"[0;25K]";Non;z_Highly Rural/ Rural;Pickup;Commercial
+917;2022-02-17 13:28:57;dev_integral;1;adulte;+100K;Non;Highly Urban/ Urban;Sports Car;Commercial
+918;2022-01-24 09:56:28;dev_integral;0;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+919;2022-05-23 04:04:41;dev_integral;4;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;Sports Car;Private
+920;2022-05-12 14:06:23;dev_express;0;agé;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+921;2022-02-25 05:46:01;dev_integral;0;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Private
+922;2022-05-20 20:57:52;dev_express;0;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+923;2022-02-22 03:31:40;dev_premium;0;agé;+100K;Oui;Highly Urban/ Urban;Panel Truck;Commercial
+924;2022-02-23 09:01:00;dev_express;0;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Private
+925;2022-03-28 01:18:17;dev_premium;1;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Private
+926;2022-05-02 08:14:13;dev_express;0;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Commercial
+927;2022-03-20 06:02:11;dev_integral;6;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+928;2022-04-23 18:46:21;dev_integral;4;jeune;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+929;2022-04-11 13:58:11;dev_express;11;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Commercial
+930;2022-04-23 16:15:26;dev_premium;1;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Van;Commercial
+931;2022-04-13 06:30:38;dev_express;0;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;Panel Truck;Commercial
+932;2022-03-26 17:10:44;dev_integral;2;jeune;"[+50K;75K]";Non;z_Highly Rural/ Rural;Pickup;Commercial
+933;2022-02-28 13:20:52;dev_integral;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+934;2022-03-18 02:48:43;dev_integral;0;agé;+100K;Non;Highly Urban/ Urban;Minivan;Private
+935;2022-02-17 04:34:26;dev_express;4;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+936;2022-02-23 14:57:47;dev_premium;4;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Commercial
+937;2022-01-23 05:09:24;dev_integral;0;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+938;2022-05-03 10:57:21;dev_integral;0;jeune;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+939;2022-01-17 12:09:28;dev_premium;1;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Van;Private
+940;2022-05-17 21:52:26;dev_integral;1;adulte;+100K;Non;Highly Urban/ Urban;z_SUV;Commercial
+941;2022-02-08 17:21:00;dev_premium;3;jeune;+100K;Oui;Highly Urban/ Urban;Panel Truck;Commercial
+942;2022-01-06 07:34:06;dev_express;0;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+943;2022-03-18 04:48:23;dev_express;0;adulte;+100K;Non;Highly Urban/ Urban;Pickup;Commercial
+944;2022-04-20 00:32:14;dev_express;4;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Private
+945;2022-01-05 23:57:03;dev_integral;6;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+946;2022-03-07 13:17:47;dev_express;1;jeune;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+947;2022-04-08 06:36:03;dev_premium;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+948;2022-01-13 13:58:07;dev_integral;3;agé;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+949;2022-01-22 04:31:37;dev_integral;0;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+950;2022-05-13 07:42:18;dev_premium;1;agé;+100K;Oui;Highly Urban/ Urban;z_SUV;Private
+951;2022-03-01 00:11:30;dev_express;2;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+952;2022-05-17 00:52:49;dev_integral;2;jeune;"[0;25K]";Non;z_Highly Rural/ Rural;Sports Car;Private
+953;2022-02-27 06:06:47;dev_integral;2;agé;+100K;Non;Highly Urban/ Urban;Minivan;Private
+954;2022-01-14 18:08:05;dev_express;2;jeune;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+955;2022-04-12 03:39:32;dev_vip;4;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+956;2022-04-03 21:09:12;dev_integral;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+957;2022-02-15 06:50:36;dev_premium;0;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+958;2022-04-21 08:04:40;dev_express;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+959;2022-04-13 17:06:23;dev_premium;0;jeune;"[0;25K]";Oui;z_Highly Rural/ Rural;Sports Car;Private
+960;2022-02-11 09:08:38;dev_premium;2;adulte;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Commercial
+961;2022-02-13 07:43:28;dev_premium;6;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Commercial
+962;2022-05-16 04:25:58;dev_premium;1;agé;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+963;2022-03-18 14:59:17;dev_integral;0;adulte;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+964;2022-01-18 16:49:27;dev_express;5;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+965;2022-05-23 10:42:19;dev_express;1;jeune;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+966;2022-03-16 01:51:04;dev_express;0;agé;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+967;2022-04-04 23:29:25;dev_integral;0;jeune;+100K;Non;Highly Urban/ Urban;Sports Car;Private
+968;2022-03-31 19:33:46;dev_integral;0;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Sports Car;Private
+969;2022-02-28 17:00:49;dev_express;1;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+970;2022-04-16 11:32:55;dev_premium;0;adulte;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Private
+971;2022-02-12 15:16:42;dev_premium;4;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+972;2022-01-29 14:32:50;dev_express;0;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+973;2022-04-30 23:46:27;dev_express;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+974;2022-02-25 17:52:57;dev_integral;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Van;Commercial
+975;2022-04-30 20:11:06;dev_express;3;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Pickup;Private
+976;2022-02-25 11:45:18;dev_express;2;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+977;2022-05-06 12:51:20;dev_integral;1;adulte;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Private
+978;2022-03-16 23:26:51;dev_integral;2;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Pickup;Private
+979;2022-04-06 16:10:26;dev_integral;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+980;2022-03-06 01:34:30;dev_integral;5;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+981;2022-03-04 02:26:03;dev_express;0;agé;+100K;Non;Highly Urban/ Urban;Minivan;Private
+982;2022-05-06 07:53:57;dev_express;0;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Private
+983;2022-02-01 02:51:18;dev_integral;3;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;Pickup;Private
+984;2022-03-16 12:50:15;dev_express;1;adulte;+100K;Oui;Highly Urban/ Urban;Panel Truck;Commercial
+985;2022-03-13 03:20:49;dev_premium;2;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+986;2022-04-16 09:07:42;dev_integral;0;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Commercial
+987;2022-03-05 10:49:16;dev_express;3;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+988;2022-03-19 05:51:30;dev_express;6;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+989;2022-05-01 13:37:36;dev_premium;0;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;Pickup;Commercial
+990;2022-01-19 12:58:27;dev_integral;5;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+991;2022-01-23 02:06:16;dev_integral;3;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Private
+992;2022-03-15 01:06:57;dev_integral;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+993;2022-01-14 13:28:08;dev_integral;0;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+994;2022-01-22 06:26:30;dev_express;3;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Private
+995;2022-03-03 16:50:06;dev_integral;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Sports Car;Private
+996;2022-04-01 06:27:49;dev_integral;1;jeune;"[0;25K]";Oui;z_Highly Rural/ Rural;z_SUV;Private
+997;2022-04-06 11:25:24;dev_integral;2;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Van;Commercial
+998;2022-05-16 07:44:37;dev_express;0;agé;+100K;Non;Highly Urban/ Urban;Pickup;Commercial
+999;2022-02-15 05:03:41;dev_express;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+1000;2022-02-16 20:38:03;dev_integral;2;agé;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+1001;2022-03-14 19:17:58;dev_express;7;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+1002;2022-04-22 23:48:41;dev_integral;0;agé;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+1003;2022-05-31 09:26:28;dev_integral;2;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+1004;2022-02-25 10:22:07;dev_integral;0;adulte;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+1005;2022-03-12 18:17:11;dev_express;0;jeune;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+1006;2022-05-25 17:39:07;dev_express;0;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+1007;2022-02-11 11:55:24;dev_express;3;adulte;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+1008;2022-02-09 03:38:53;dev_express;0;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Panel Truck;Commercial
+1009;2022-04-23 08:07:41;dev_integral;0;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+1010;2022-03-06 05:04:22;dev_integral;2;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+1011;2022-03-18 00:31:27;dev_express;2;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+1012;2022-03-29 15:07:39;dev_express;10;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Pickup;Private
+1013;2022-03-30 05:03:04;dev_express;0;jeune;"[+25K;50K]";Non;z_Highly Rural/ Rural;Pickup;Commercial
+1014;2022-05-18 15:04:53;dev_express;0;agé;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+1015;2022-05-01 13:54:21;dev_integral;6;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+1016;2022-03-04 08:26:14;dev_express;0;agé;+100K;Non;z_Highly Rural/ Rural;Minivan;Private
+1017;2022-03-12 22:34:46;dev_premium;0;adulte;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+1018;2022-03-14 18:09:53;dev_express;3;adulte;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Commercial
+1019;2022-01-29 04:45:54;dev_premium;5;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+1020;2022-05-09 20:08:22;dev_premium;3;agé;"[0;25K]";Non;z_Highly Rural/ Rural;Sports Car;Private
+1021;2022-01-15 15:51:05;dev_premium;0;adulte;+100K;Non;Highly Urban/ Urban;Sports Car;Private
+1022;2022-05-11 19:20:32;dev_express;1;jeune;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Private
+1023;2022-05-22 23:11:47;dev_integral;0;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;z_SUV;Private
+1024;2022-03-16 05:57:35;dev_premium;0;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Sports Car;Private
+1025;2022-02-10 06:27:51;dev_express;4;agé;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+1026;2022-05-30 19:20:04;dev_express;4;adulte;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+1027;2022-01-10 18:50:38;dev_integral;1;jeune;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+1028;2022-05-21 14:48:55;dev_integral;2;jeune;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Private
+1029;2022-04-09 07:59:37;dev_express;4;jeune;+100K;Non;Highly Urban/ Urban;Van;Private
+1030;2022-02-13 15:50:05;dev_vip;5;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+1031;2022-02-25 01:50:07;dev_integral;7;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+1032;2022-01-02 16:50:27;dev_integral;6;agé;"[+75K;100K]";Oui;Highly Urban/ Urban;Minivan;Private
+1033;2022-04-02 01:41:56;dev_express;0;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Sports Car;Private
+1034;2022-05-03 20:04:34;dev_premium;2;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;Pickup;Private
+1035;2022-04-25 17:47:22;dev_express;1;adulte;"[0;25K]";Non;Highly Urban/ Urban;Van;Private
+1036;2022-03-08 01:20:47;dev_integral;4;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;Pickup;Private
+1037;2022-05-31 07:38:15;dev_integral;6;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+1038;2022-01-21 17:55:18;dev_integral;0;adulte;"[0;25K]";Oui;z_Highly Rural/ Rural;Pickup;Commercial
+1039;2022-04-27 00:55:01;dev_integral;1;agé;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+1040;2022-04-25 21:28:55;dev_integral;0;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Private
+1041;2022-03-05 04:31:04;dev_integral;0;agé;+100K;Oui;Highly Urban/ Urban;z_SUV;Private
+1042;2022-01-21 20:31:42;dev_integral;0;jeune;"[0;25K]";Non;Highly Urban/ Urban;z_SUV;Private
+1043;2022-04-25 02:27:33;dev_integral;4;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+1044;2022-03-29 10:10:36;dev_integral;1;agé;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+1045;2022-02-13 12:49:30;dev_integral;6;adulte;"[0;25K]";Non;Highly Urban/ Urban;Sports Car;Commercial
+1046;2022-02-11 19:49:11;dev_express;0;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;Sports Car;Private
+1047;2022-05-28 14:51:30;dev_integral;0;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;Panel Truck;Commercial
+1048;2022-04-03 10:24:17;dev_integral;4;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+1049;2022-05-20 00:54:31;dev_integral;3;jeune;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+1050;2022-04-22 07:51:36;dev_express;0;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+1051;2022-01-29 23:53:38;dev_integral;0;agé;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+1052;2022-05-21 16:52:50;dev_integral;3;jeune;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+1053;2022-05-04 21:53:46;dev_integral;0;jeune;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Commercial
+1054;2022-01-25 02:36:48;dev_premium;4;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+1055;2022-01-27 10:59:23;dev_integral;0;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+1056;2022-03-11 17:06:32;dev_integral;2;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Pickup;Private
+1057;2022-05-25 04:29:27;dev_integral;0;agé;"[+50K;75K]";Oui;z_Highly Rural/ Rural;Minivan;Commercial
+1058;2022-01-20 13:19:15;dev_premium;1;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+1059;2022-04-22 03:55:30;dev_integral;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Commercial
+1060;2022-02-10 11:43:26;dev_integral;7;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+1061;2022-02-24 22:38:10;dev_express;4;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+1062;2022-03-17 13:01:02;dev_express;2;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Sports Car;Private
+1063;2022-03-04 23:01:12;dev_express;4;jeune;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+1064;2022-04-20 21:31:48;dev_express;0;adulte;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+1065;2022-01-30 10:23:48;dev_express;4;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Van;Private
+1066;2022-02-11 03:05:15;dev_integral;3;adulte;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+1067;2022-03-05 22:31:37;dev_integral;0;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;Sports Car;Private
+1068;2022-02-16 21:11:30;dev_express;7;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Van;Commercial
+1069;2022-01-25 22:15:40;dev_integral;0;jeune;+100K;Non;Highly Urban/ Urban;Van;Private
+1070;2022-03-06 06:46:49;dev_express;0;adulte;+100K;Oui;z_Highly Rural/ Rural;Pickup;Commercial
+1071;2022-04-15 19:54:12;dev_express;0;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Van;Commercial
+1072;2022-03-24 05:03:13;dev_integral;0;adulte;+100K;Oui;z_Highly Rural/ Rural;Van;Commercial
+1073;2022-02-06 04:58:24;dev_integral;3;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+1074;2022-03-27 09:03:38;dev_integral;1;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Commercial
+1075;2022-02-28 04:43:34;dev_express;0;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;Van;Private
+1076;2022-02-17 12:07:25;dev_express;0;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Pickup;Private
+1077;2022-03-21 04:50:26;dev_integral;3;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+1078;2022-04-29 13:22:49;dev_express;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+1079;2022-04-21 12:08:35;dev_express;5;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+1080;2022-01-19 11:20:35;dev_integral;2;jeune;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+1081;2022-03-09 20:30:13;dev_integral;0;agé;+100K;Oui;Highly Urban/ Urban;Minivan;Private
+1082;2022-03-01 14:18:36;dev_express;3;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Sports Car;Private
+1083;2022-02-25 19:38:23;dev_express;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+1084;2022-04-06 01:42:35;dev_integral;0;jeune;"[+75K;100K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+1085;2022-04-04 10:25:28;dev_express;4;agé;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+1086;2022-02-04 21:07:36;dev_express;5;adulte;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Private
+1087;2022-01-06 03:31:20;dev_express;2;agé;"[0;25K]";Non;Highly Urban/ Urban;Van;Commercial
+1088;2022-03-15 18:00:50;dev_integral;0;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+1089;2022-01-23 03:10:34;dev_express;3;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;Van;Commercial
+1090;2022-02-18 02:05:10;dev_integral;0;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Private
+1091;2022-02-09 05:52:47;dev_integral;8;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+1092;2022-04-07 03:39:34;dev_integral;0;adulte;"[+50K;75K]";Oui;z_Highly Rural/ Rural;Pickup;Commercial
+1093;2022-04-03 15:51:47;dev_integral;0;adulte;"[+75K;100K]";Non;z_Highly Rural/ Rural;Panel Truck;Commercial
+1094;2022-03-01 20:07:46;dev_integral;0;jeune;"[0;25K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+1095;2022-03-31 06:34:03;dev_premium;5;adulte;"[+75K;100K]";Oui;Highly Urban/ Urban;Minivan;Private
+1096;2022-01-24 07:06:56;dev_express;4;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Minivan;Private
+1097;2022-02-24 16:14:00;dev_integral;1;adulte;+100K;Non;z_Highly Rural/ Rural;Panel Truck;Commercial
+1098;2022-01-26 07:50:02;dev_express;4;jeune;+100K;Non;Highly Urban/ Urban;Minivan;Commercial
+1099;2022-02-07 09:30:27;dev_express;3;agé;"[0;25K]";Oui;Highly Urban/ Urban;z_SUV;Commercial
+1100;2022-03-11 02:37:46;dev_vip;0;adulte;+100K;Oui;Highly Urban/ Urban;Van;Private
+1101;2022-03-08 10:38:53;dev_integral;2;agé;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Private
+1102;2022-04-15 09:55:31;dev_express;1;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+1103;2022-05-29 18:16:36;dev_integral;0;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;z_SUV;Commercial
+1104;2022-04-16 13:39:53;dev_express;0;jeune;+100K;Non;z_Highly Rural/ Rural;Minivan;Private
+1105;2022-01-22 05:58:28;dev_express;9;jeune;+100K;Oui;Highly Urban/ Urban;Panel Truck;Commercial
+1106;2022-03-27 20:38:49;dev_premium;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Panel Truck;Commercial
+1107;2022-01-04 05:01:38;dev_integral;0;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+1108;2022-02-13 15:16:22;dev_integral;8;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Van;Commercial
+1109;2022-03-19 20:36:55;dev_premium;5;adulte;+100K;Oui;Highly Urban/ Urban;z_SUV;Private
+1110;2022-03-23 12:55:56;dev_integral;1;adulte;"[0;25K]";Non;Highly Urban/ Urban;Pickup;Commercial
+1111;2022-02-24 13:26:06;dev_express;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Sports Car;Private
+1112;2022-05-30 19:44:58;dev_integral;1;agé;"[0;25K]";Non;Highly Urban/ Urban;Sports Car;Private
+1113;2022-03-02 11:38:55;dev_express;3;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Van;Private
+1114;2022-05-20 22:56:51;dev_integral;0;agé;"[+25K;50K]";Non;Highly Urban/ Urban;Minivan;Private
+1115;2022-04-29 03:01:32;dev_integral;0;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Private
+1116;2022-01-25 05:05:53;dev_express;1;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Pickup;Private
+1117;2022-03-03 19:35:39;dev_integral;1;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Commercial
+1118;2022-02-16 23:56:09;dev_express;0;agé;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+1119;2022-04-08 12:32:57;dev_integral;1;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+1120;2022-05-24 09:52:40;dev_integral;0;jeune;"[+75K;100K]";Non;Highly Urban/ Urban;Sports Car;Private
+1121;2022-03-02 00:49:09;dev_integral;1;adulte;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+1122;2022-02-09 22:53:35;dev_premium;1;agé;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+1123;2022-01-24 05:37:31;dev_integral;2;jeune;"[+25K;50K]";Oui;Highly Urban/ Urban;Minivan;Commercial
+1124;2022-03-20 04:45:11;dev_express;0;jeune;"[+50K;75K]";Oui;z_Highly Rural/ Rural;Pickup;Commercial
+1125;2022-03-16 09:04:06;dev_integral;1;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Pickup;Private
+1126;2022-03-15 13:46:20;dev_express;0;jeune;"[0;25K]";Non;z_Highly Rural/ Rural;Minivan;Commercial
+1127;2022-05-24 16:03:51;dev_integral;0;jeune;"[+50K;75K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+1128;2022-03-26 03:48:14;dev_integral;4;jeune;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+1129;2022-05-28 19:05:33;dev_integral;5;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;z_SUV;Private
+1130;2022-04-19 21:51:10;dev_integral;1;agé;+100K;Non;Highly Urban/ Urban;z_SUV;Private
+1131;2022-04-04 05:24:47;dev_express;0;jeune;"[0;25K]";Non;Highly Urban/ Urban;Minivan;Private
+1132;2022-01-25 05:14:34;dev_express;3;adulte;"[+50K;75K]";Oui;Highly Urban/ Urban;Minivan;Private
+1133;2022-02-25 17:41:10;dev_integral;1;agé;"[+25K;50K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+1134;2022-03-07 18:50:04;dev_integral;0;jeune;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Private
+1135;2022-05-11 19:57:03;dev_integral;0;agé;"[+25K;50K]";Oui;Highly Urban/ Urban;z_SUV;Private
+1136;2022-05-25 05:18:35;dev_express;3;agé;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+1137;2022-02-07 06:33:53;dev_integral;10;jeune;"[0;25K]";Non;Highly Urban/ Urban;Sports Car;Private
+1138;2022-03-02 22:19:18;dev_express;0;adulte;"[+25K;50K]";Non;Highly Urban/ Urban;z_SUV;Private
+1139;2022-04-29 09:55:18;dev_integral;3;jeune;"[+25K;50K]";Non;Highly Urban/ Urban;Pickup;Private
+1140;2022-02-27 08:10:14;dev_integral;0;agé;"[0;25K]";Oui;z_Highly Rural/ Rural;Sports Car;Private
+1141;2022-02-10 16:53:24;dev_express;2;agé;"[0;25K]";Non;z_Highly Rural/ Rural;Pickup;Commercial
+1142;2022-05-07 12:19:08;dev_integral;4;agé;+100K;Non;Highly Urban/ Urban;Pickup;Private
+1143;2022-05-19 09:28:12;dev_integral;0;agé;"[+75K;100K]";Oui;z_Highly Rural/ Rural;Panel Truck;Commercial
+1144;2022-03-24 21:00:52;dev_express;2;agé;"[0;25K]";Oui;Highly Urban/ Urban;Sports Car;Private
+1145;2022-01-18 09:50:49;dev_express;3;adulte;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Private
+1146;2022-03-14 09:34:04;dev_integral;7;agé;"[+50K;75K]";Oui;Highly Urban/ Urban;z_SUV;Private
+1147;2022-01-25 07:45:23;dev_express;0;agé;"[+25K;50K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+1148;2022-05-02 07:04:29;dev_premium;0;jeune;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+1149;2022-04-08 04:34:47;dev_express;7;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Minivan;Commercial
+1150;2022-05-17 12:05:13;dev_express;3;adulte;"[0;25K]";Oui;Highly Urban/ Urban;Pickup;Commercial
+1151;2022-02-20 04:37:28;dev_integral;5;agé;+100K;Non;Highly Urban/ Urban;Panel Truck;Commercial
+1152;2022-01-03 02:02:36;dev_integral;1;agé;"[0;25K]";Non;z_Highly Rural/ Rural;z_SUV;Private
+1153;2022-05-27 05:18:16;dev_express;2;adulte;+100K;Non;Highly Urban/ Urban;Minivan;Private
+1154;2022-05-22 15:08:35;dev_express;2;jeune;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Private
+1155;2022-01-23 01:08:13;dev_integral;3;adulte;"[+50K;75K]";Non;Highly Urban/ Urban;Minivan;Private
+1156;2022-01-19 20:37:05;dev_premium;6;agé;"[+75K;100K]";Non;Highly Urban/ Urban;Van;Commercial
+1157;2022-05-08 18:08:55;dev_integral;0;agé;"[+25K;50K]";Non;z_Highly Rural/ Rural;Minivan;Private
