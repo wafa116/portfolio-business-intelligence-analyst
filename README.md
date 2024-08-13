@@ -62,13 +62,15 @@ BestMarket, a retail company, wants to use customer feedback and reviews data to
 
 ##### Description:
 
-
+BottleNeck, a very prestigious wine merchant that operates online.
 
 ##### Tasks performed:
 
-* 
+* reconcile two data exports
+* calculate the sales revenue per product, as well as the total online sales revenue.
+* perform an analysis on the product price in order to detect any potential outliers.
 
-<u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, SQLite.
+<u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, Jupyter.
 
 ### Project 7: Create a dynamic dashboard with Power BI to visualize project progress
 ### Project 8: Analyze the evolution of real estate prices using Python
