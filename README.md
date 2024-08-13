@@ -42,11 +42,22 @@ Dev’Immediat's business involves commercial prospecting and generating profit 
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, SQLite.
 
 
-
-
-
-
 ### Project 5: Query a database with SQL to track customer satisfaction
+
+
+##### Description:
+BestMarket, a retail company, wants to use customer feedback and reviews data to improve the quality of its store network.
+
+
+##### Tasks performed:
+
+* Rephrase the expression of needs
+* Collected and grouped data in a database to facilitate analysis.
+* create the list of queries with the associated results."
+
+<u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, SQLite.
+
+
 ### Project 6:  Optimize stock management for a store by cleaning its data
 ### Project 7: Create a dynamic dashboard with Power BI to visualize project progress
 ### Project 8: Analyze the evolution of real estate prices using Python
