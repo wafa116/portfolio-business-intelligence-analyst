@@ -1,5 +1,8 @@
 # Business Intelligence Analyst
 ### Project 1: Start your training Business Intelligence Analyst
+
+<u><strong>Deliverable:</strong></u> [links](./Projects/Start%20your%20training%20Business%20Intelligence%20Analyst/)
+
 ### Project 2: Visualize data with Excel
 ##### November 15, 2024 - December 10, 2024 
 ##### Description:
@@ -14,7 +17,7 @@ Visualize the data of "Primero Bank" customers using Excel and identify the char
 
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint.
 
-<u><strong>Deliverable:</strong></u> [links](./Projects/Start%20your%20training%20Business%20Intelligence%20Analyst/)
+<u><strong>Deliverable:</strong></u> [links](./Projects/Visualize data with Excel/)
 
 ### Project 3: Query a database with SQL
 
