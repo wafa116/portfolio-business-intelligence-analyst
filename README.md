@@ -18,8 +18,7 @@ Visualize the data of "Primero Bank" customers using Excel and identify the char
 
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint.
 
-<u><strong>Deliverable:</strong></u> [links]
-(C:\wafa\portfolio-business-intelligence-analyst\Projects\Visualize data with Excel\)
+<u><strong>Deliverable:</strong></u> [links](./Projects/Visualize%20data%20with%20Excel/)
 
 
 ### Project 3: Query a database with SQL
@@ -35,6 +34,8 @@ The goal of the project is to review the insurance contract prices of the compan
 
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, SQL.
 
+<u><strong>Deliverable:</strong></u> [links](./Projects/Query%20a%20database%20with%20SQL/)
+
 ### Project 4: Collect data in compliance with GDPR standards
 
 
@@ -49,6 +50,7 @@ Dev’Immediat's business involves commercial prospecting and generating profit 
 
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, SQLite.
 
+<u><strong>Deliverable:</strong></u> [links](./Projects/Collect%20data%20in%20compliance%20with%20GDPR%20standards/)
 
 ### Project 5: Query a database with SQL to track customer satisfaction
 
@@ -65,6 +67,8 @@ BestMarket, a retail company, wants to use customer feedback and reviews data to
 
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, SQLite.
 
+<u><strong>Deliverable:</strong></u> [links](./Projects/Query%20a%20database%20with%20SQL%20to%20track%20customer%20satisfaction/)
+
 
 ### Project 6:  Optimize stock management for a store by cleaning its data
 
@@ -80,6 +84,9 @@ BottleNeck, a very prestigious wine merchant that operates online.
 
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, Jupyter.
 
+<u><strong>Deliverable:</strong></u> [links](./Projects/Optimize%20stock%20management%20for%20a%20store%20by%20cleaning%20its%20data/)
+
+
 ### Project 7: Create a dynamic dashboard with Power BI to visualize project progress
 
 ##### Description:
@@ -92,6 +99,8 @@ Sanitoral is an international company that manufactures and sells oral care prod
 * identify any delays;
 * control performance so that the team can take appropriate actions.
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, Power BI.
+
+<u><strong>Deliverable:</strong></u> [links](./Projects/Create%20a%20dynamic%20dashboard%20with%20Power%20BI%20to%20visualize%20project%20progress/)
 
 
 ### Project 8: Analyze the evolution of real estate prices using Python
@@ -110,6 +119,9 @@ Sanitoral is an international company that manufactures and sells oral care prod
 
 
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, iPython Notebook.
+
+<u><strong>Deliverable:</strong></u> [links](./Projects/Analyze%20the%20evolution%20of%20real%20estate%20prices%20using%20Python/)
+
 
 ### Project 9: Create your Business Intelligence Analyst portfolio
 
