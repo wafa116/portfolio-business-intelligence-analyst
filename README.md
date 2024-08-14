@@ -19,7 +19,8 @@ Visualize the data of "Primero Bank" customers using Excel and identify the char
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint.
 
 <u><strong>Deliverable:</strong></u> [links]
-(./Projects/Visualize%20data%20with%20Excel/)
+(C:\wafa\portfolio-business-intelligence-analyst\Projects\Visualize data with Excel\)
+
 
 ### Project 3: Query a database with SQL
 
