@@ -129,7 +129,7 @@ Sanitoral is an international company that manufactures and sells oral care prod
 ##### Description:
 Create a dashboard in Tableau Software to showcase my skills and all my projects realized during my course of BI with OpenClassrooms.
 
-This is my dashboard on tableau software: [My Resume](https://public.tableau.com/views/MYRESUME_17231145674200/Montableaudubord?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+This is my dashboard on tableau software: [My Resume](https://public.tableau.com/views/MYRESUME_17231145674200/Montableaudubord?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ##### Tasks performed:
 
