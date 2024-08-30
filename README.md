@@ -139,3 +139,6 @@ This is my dashboard on tableau software: [My Resume](https://public.tableau.com
 * Integrate the dashboard into an online portfolio in English via GitHub.
 
 <u><strong>Tools:</strong></u> Tableau Software, Figma, Excel, Git, Github Visual Studio Code.
+
+
+<u><strong>Deliverable:</strong></u> [link](./Projects/Create%20your%20Business%20Intelligence%20Analyst%20portfolio/)
