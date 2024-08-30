@@ -5,7 +5,7 @@
 
 
 ### Project 2: Visualize data with Excel
-##### November 15, 2024 - December 10, 2024 
+
 ##### Description:
 Visualize the data of "Primero Bank" customers using Excel and identify the characteristics of customers who have left the bank in order to prepare an action plan to prevent future departures.
 
