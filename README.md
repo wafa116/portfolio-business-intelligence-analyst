@@ -98,6 +98,7 @@ Sanitoral is an international company that manufactures and sells oral care prod
 * monitor project progress;
 * identify any delays;
 * control performance so that the team can take appropriate actions.
+
 <u><strong>Tools:</strong></u> Excel, Microsoft Word Office, PowerPoint, Power BI.
 
 <u><strong>Deliverable:</strong></u> [link](./Projects/Create%20a%20dynamic%20dashboard%20with%20Power%20BI%20to%20visualize%20project%20progress/)
