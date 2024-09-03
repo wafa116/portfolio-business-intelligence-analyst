@@ -126,7 +126,6 @@ Sanitoral is an international company that manufactures and sells oral care prod
 
 ### Project 9: Create your Business Intelligence Analyst portfolio
 
-##### June 1, 2024 - Agust 21, 2024 
 ##### Description:
 Create a dashboard in Tableau Software to showcase my skills and all my projects realized during my course of BI with OpenClassrooms.
 
